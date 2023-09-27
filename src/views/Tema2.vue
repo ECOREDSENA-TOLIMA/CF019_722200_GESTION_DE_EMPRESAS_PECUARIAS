@@ -21,31 +21,31 @@
         .col-auto
           ul.lista-ul
             li
-              i.fas.fa-angle-right
+              i.fas.fa-check
               | Identificación de entrada de vectores a la producción, ya sea porque está en contacto con otras granjas, plantas de sacrificio, manipuladores de animales.
             li 
-              i.fas.fa-angle-right
+              i.fas.fa-check
               | Identificación de zonas limpias, zonas sucias, restricción de personal en ciertas zonas, restricción de flujo de personal.
             li 
-              i.fas.fa-angle-right
+              i.fas.fa-check
               | Controlar el ingreso y la salida del personal.
             li 
-              i.fas.fa-angle-right
+              i.fas.fa-check
               | Delimitación con cercos perimetrales para evitar la entrada de personas o animales, tanto domésticos como silvestres.
             li 
-              i.fas.fa-angle-right
+              i.fas.fa-check
               | Al introducir material genético o animales, aislar animales nuevos; comprar animales en sitios reconocidos; asegurarse de que el animal se encuentra bajo condiciones óptimas de vacunación, desparasitación; no introducir animales enfermos a la explotación.
             li 
-              i.fas.fa-angle-right
+              i.fas.fa-check
               | Desinfección de vehículos con arco de desinfección, bomba de aspersión.
             li 
-              i.fas.fa-angle-right
+              i.fas.fa-check
               | Protocolos de limpieza y desinfección de cada área.
             li 
-              i.fas.fa-angle-right
+              i.fas.fa-check
               | Control de plagas y roedores.
             li 
-              i.fas.fa-angle-right
+              i.fas.fa-check
               | Manejo de mortalidad, desechos y residuos.
     
     .row.justify-content-center.mb-5(data-aos="fade-down")
@@ -56,11 +56,11 @@
     .row.justify-content-center.mb-5(data-aos="fade-down")
      .col-12
       ol.lista-ol--cuadro.lista-ol--cuadro--separador
-        .lista-ol--cuadro__vineta
+        i.fas.fa-atom.p-1(style="color:#3B5620")
           span 
         | Al momento de comprar animales reproductores, es importante solicitar la historia clínica del animal, registros de vacunación, registros de montas, realizar un análisis físico y sanguíneo para descartar cualquier tipo de enfermedad que pueda ser perjudicial para la producción.
       ol.lista-ol--cuadro.lista-ol--cuadro--separador
-        .lista-ol--cuadro__vineta
+        i.fas.fa-atom.p-1(style="color:#3B5620")
           span 
         | Realizar una limpieza del órgano reproductor, tanto de la hembra como del macho; importante hacerlo tanto antes como después de la monta.
 
@@ -71,22 +71,22 @@
             .col-12
               ul.lista-ul
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-atom.p-1(style="color:#304C8E")
                   |	Asegurarse de que el área de descanso de los sementales esté limpia.
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-atom.p-1(style="color:#304C8E")
                   |	Realizar frecuentes cambios de cama.
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-atom.p-1(style="color:#304C8E")
                   | Realizar limpieza y desinfección de acuerdo con criterio técnico, teniendo en cuenta los diferentes materiales de la cama, el piso y las paredes.
           .row(titulo="Semental")
             .col-12
               ul.lista-ul
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-atom.p-1(style="color:#304C8E")
                   |	Los cuidados de aseo son importantes para el manejo de reproductores, ello incluye la limpieza del abdomen, el corte de los pelos del prepucio y, en algunas especies, la limpieza del esmegma.
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-atom.p-1(style="color:#304C8E")
                   |	Se recomienda realizar la limpieza de manera delicada.
           .row(titulo="Área de monta / toril - brete o apretadero")
             .col-12
@@ -137,10 +137,10 @@
               .col-sm.mb-5.mb-sm-0
                 ul
                   li 
-                    i.lista-ul__vineta
+                    i.fas.fa-atom.p-1(style="color:#3B5620")
                     | Nariguera fija.
                   li 
-                    i.lista-ul__vineta
+                    i.fas.fa-atom.p-1(style="color:#3B5620")
                     | Nariguera manual.
           .col-md-6
             figure

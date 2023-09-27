@@ -488,7 +488,7 @@ export default {
           centro: 'Nombre centro de formación',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'VEIMAR CELIS MELENDEZ',
           cargo: 'Desarrollador Fullstack',
           centro: 'Nombre centro de formación',
         },

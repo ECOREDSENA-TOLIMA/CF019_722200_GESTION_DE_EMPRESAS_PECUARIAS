@@ -63,20 +63,21 @@
                   .col-sm.mb-5.mb-sm-0
                     ul(style="display:block")
                       li(style="display:block") 
-                        i.lista-ul__vineta
+                        i.fas.fa-atom.p-2(style="color:#3B5620")
                         | Libre de hambre, sed y desnutrición.
                       li(style="display:block") 
-                        i.lista-ul__vineta
+                        i.fas.fa-atom.p-2(style="color:#3B5620")
                         | Libre de temor y angustia.
                       li(style="display:block") 
-                        i.lista-ul__vineta
+                        i.fas.fa-atom.p-2(style="color:#3B5620")
                         | Libre de molestias físicas y térmicas.
                       li(style="display:block") 
-                        i.lista-ul__vineta
+                        i.fas.fa-atom.p-2(style="color:#3B5620")
                         | Libre de dolor, lesión y enfermedad.
                       li(style="display:block") 
-                        i.lista-ul__vineta
+                        i.fas.fa-atom.p-2(style="color:#3B5620")
                         | Libre de manifestar un comportamiento natural.
+                
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-12
         p(data-aos="fade-down") El bienestar animal puede ser medible con las diferentes características productivas, de acuerdo con las explotaciones pecuarias, porque son características que con una evaluación simple pueden ser identificadas, como se presenta a continuación.
@@ -90,16 +91,16 @@
               .col-sm.mb-5.mb-sm-0
                 ul
                   li 
-                    i.lista-ul__vineta
+                    i.fas.fa-minus.p-2
                     | Disminución en la ingesta de alimento.
                   li 
-                    i.lista-ul__vineta
+                    i.fas.fa-minus.p-2
                     | Aumento en la frecuencia cardíaca.
                   li 
-                    i.lista-ul__vineta
+                    i.fas.fa-minus.p-2
                     | Aumento en la respiración (jadeo).
                   li 
-                    i.lista-ul__vineta
+                    i.fas.fa-minus.p-2
                     | Agresividad.
           .col-md-6
             figure
@@ -112,13 +113,13 @@
               .col-sm.mb-5.mb-sm-0
                 ul
                   li 
-                    i.lista-ul__vineta
+                    i.fas.fa-minus.p-2
                     | Enfermedad.
                   li 
-                    i.lista-ul__vineta
+                    i.fas.fa-minus.p-2
                     | Cogera.
                   li 
-                    i.lista-ul__vineta
+                    i.fas.fa-minus.p-2
                     | Comprender etiología de la enfermedad.                 
           .col-md-6
             figure
@@ -131,13 +132,13 @@
               .col-sm.mb-5.mb-sm-0
                 ul
                   li 
-                    i.lista-ul__vineta
+                    i.fas.fa-minus.p-2
                     | Análisis causas de muerte.
                   li 
-                    i.lista-ul__vineta
+                    i.fas.fa-minus.p-2
                     | Frecuencia de muerte.
                   li 
-                    i.lista-ul__vineta
+                    i.fas.fa-minus.p-2
                     | Distribución espacio temporal de muerte.
           .col-md-6
             figure
@@ -150,10 +151,10 @@
               .col-sm.mb-5.mb-sm-0
                 ul
                   li 
-                    i.lista-ul__vineta
+                    i.fas.fa-minus.p-2
                     | Baja condición corporal.
                   li 
-                    i.lista-ul__vineta
+                    i.fas.fa-minus.p-2
                     | Pérdida de peso significativa.                    
           .col-md-6
             figure
@@ -166,19 +167,19 @@
               .col-sm.mb-5.mb-sm-0
                 ul
                   li 
-                    i.lista-ul__vineta
+                    i.fas.fa-minus.p-2
                     | Bajo rendimiento reproductivo.
                   li 
-                    i.lista-ul__vineta
+                    i.fas.fa-minus.p-2
                     | Anestros prolongación intervalos postpartos.
                   li 
-                    i.lista-ul__vineta
+                    i.fas.fa-minus.p-2
                     | Baja tasa de concepción.
                   li 
-                    i.lista-ul__vineta
+                    i.fas.fa-minus.p-2
                     | Alta tasa de abortos.
                   li 
-                    i.lista-ul__vineta
+                    i.fas.fa-minus.p-2
                     | Alta tasa de distocia.
           .col-md-6
             figure
@@ -581,13 +582,13 @@
       .col-xl-12
         ul(style="display:block")
           li(style="display:block") 
-            i.lista-ul__vineta
+            i.fas.fa-angle-right.p-1
             | Monoéstricas: perras.
           li(style="display:block") 
-            i.lista-ul__vineta
+            i.fas.fa-angle-right.p-1
             | Poliéstricas no estacionales: vacas y cerdas.
           li(style="display:block") 
-            i.lista-ul__vineta
+            i.fas.fa-angle-right.p-1
             | Poliéstricas estacionales: yeguas, gatas, cabras y ovejas.
 
 
@@ -604,19 +605,19 @@
       .col-lg-6
         ul(style="display:block")
             li(style="display:block") 
-              i.lista-ul__vineta
+              i.fas.fa-angle-right.p-1
               | El celo en la vaca tiene un período de 15 a 20 horas y se repetirá a los 21 días en caso de no ser servida o preñada.
 
             li(style="display:block") 
-              i.lista-ul__vineta
+              i.fas.fa-angle-right.p-1
               | En las ovejas, el celo dura un período de 24 a 36 horas y se repetirá a los 16 días en caso de no ser servida o preñada.
             
             li(style="display:block") 
-              i.lista-ul__vineta
+              i.fas.fa-angle-right.p-1
               | En las cerdas, el tiempo del celo es mucho más amplio, desde las primeras 8 horas hasta 36 horas, con una repetición del celo cada 21 días en caso de no ser montada.
             
             li(style="display:block") 
-              i.lista-ul__vineta
+              i.fas.fa-angle-right.p-1
               | La yegua presenta el celo principalmente entre marzo y julio, de forma natural, comprende la temporada natural de cruza; el celo dura entre 5 y 7 días.
 
 

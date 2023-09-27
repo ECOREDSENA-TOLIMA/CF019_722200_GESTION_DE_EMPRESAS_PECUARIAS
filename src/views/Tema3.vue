@@ -131,13 +131,13 @@
 
               ul.lista-ul.lista-ul
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-atom.p-1(style="color:#3B5620")
                   | Hormona #[em luteinizante] (LH): su principal función es la formación del cuerpo lúteo en el ovario.
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-atom.p-1(style="color:#3B5620")
                   | Prolactina: ayuda a la formación y bajada de la leche.
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-atom.p-1(style="color:#3B5620")
                   | Hormona adrenocorticotropa (ACTH): liberación de glucocorticoides (encargados de la regulación de la osmolaridad y el balance metabólico).
               
               p La #[strong hipófisis superio], su principal hormona es la oxitocina, la cual ayuda a las diferentes contracciones en el trabajo de parto y también en la bajada de la leche.
@@ -150,13 +150,13 @@
                 .col-lg-8
                   ul.lista-ul.lista-ul
                     li
-                      i.fas.fa-angle-right
+                      i.fas.fa-atom.p-1(style="color:#3B5620")
                       | #[ Estrógenos:] son hormonas generalmente femeninas, con funciones como el crecimiento de la glándula mamaria, generar la ovulación, ayudar a la maduración folicular, siendo esta hormona junto con la progesterona las determinantes en los exámenes de detección hormonal, dada su importancia tanto en el celo como en la gestación.
                     li
-                      i.fas.fa-angle-right
+                      i.fas.fa-atom.p-1(style="color:#3B5620")
                       | #[ Progesterona:] es una hormona sexual encargada de la preparación, manutención y supervivencia del óvulo fértil, ayuda al desarrollo del endometrio para la implantación del embrión, juega un papel importante en la manutención de la preñez y el crecimiento de la glándula mamaria.
                     li
-                      i.fas.fa-angle-right
+                      i.fas.fa-atom.p-1(style="color:#3B5620")
                       | #[ Relaxina:] es una hormona que, como su nombre lo indica, ayuda a la relajación y distensión de diferentes órganos, como la expansión de la pelvis, la dilatación del cérvix en el momento del trabajo de parto y las diferentes fases de la gestación.
 
                 p La #[strong corteza adrenal] es una glándula productora de diferentes hormonas, como el cortisol, aldosterona y otros glucocorticoides encargados de la regulación y homeostasis.
@@ -267,16 +267,16 @@
       .col-lg-10
         ul.lista-ul--color
           li
-            i.fas.fa-angle-right
+            i.fas.fa-atom.p-1(style="color:#3B5620")
             | En los #[strong cerdos:] la relación de macho por hembras es de un verraco por cada 20 o 30 hembras.
           li
-            i.fas.fa-angle-right
+            i.fas.fa-atom.p-1(style="color:#3B5620")
             | Para los #[strong bovinos:] la relación bovina de macho por hembras es de 25 hembras por cada macho.
           li
-            i.fas.fa-angle-right
+            i.fas.fa-atom.p-1(style="color:#3B5620")
             | En los #[strong ovinos:] la relación varía más o menos de 25 a 40 hembras por macho.  
           li
-            i.fas.fa-angle-right
+            i.fas.fa-atom.p-1(style="color:#3B5620")
             | En los #[strong equinos:] generalmente, se realiza una monta mucho más selectiva, para la cual se elige el macho con la hembra.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
@@ -504,19 +504,19 @@
       .col-lg-10
         ul.lista-ul--color
           li
-            i.fas.fa-angle-right
+            i.fas.fa-atom.p-1(style="color:#3B5620")
             | Un periodo de lactancia de 300 días,
           li
-            i.fas.fa-angle-right
+            i.fas.fa-atom.p-1(style="color:#3B5620")
             | 	Un periodo de secado de 60 días.
           li
-            i.fas.fa-angle-right
+            i.fas.fa-atom.p-1(style="color:#3B5620")
             | 	Una gestación de 270 días.
           li
-            i.fas.fa-angle-right
+            i.fas.fa-atom.p-1(style="color:#3B5620")
             | 	Un periodo de parto con tendencia de un parto al año.
           li
-            i.fas.fa-angle-right
+            i.fas.fa-atom.p-1(style="color:#3B5620")
             | 	Fecha en que se realiza la monta dependiendo de la presentación del celo de la vaca y el servicio; una confirmación de preñez, y en caso de estar vacía, repetir monta a los 21 días.
 
 

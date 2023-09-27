@@ -131,10 +131,10 @@
         .col-lg-7
           ul.lista-ul
             li
-              i.fas.fa-angle-right
+              i.fas.fa-atom.p-1(style="color:#3B5620")
               | Realizar anotación precisa y clara del procedimiento ejecutado.
             li
-              i.fas.fa-angle-right
+              i.fas.fa-atom.p-1(style="color:#3B5620")
               | Realizar todo en el orden definido y con el tiempo adecuado entre cada paso, para evitar una contaminación cruzada.
               li 
                 i.fas.fa-angle-right
@@ -143,16 +143,16 @@
                 i.fas.fa-angle-right
                 | Limpieza en húmedo.
             li
-              i.fas.fa-angle-right
+              i.fas.fa-atom.p-1(style="color:#3B5620")
               | Sanitización del sistema de agua (por presencia de biofilm).
             li
-              i.fas.fa-angle-right
+              i.fas.fa-atom.p-1(style="color:#3B5620")
               | Ingreso controlado de personal a la instalación, antes, durante y después de la desinfección.
             li
-              i.fas.fa-angle-right
+              i.fas.fa-atom.p-1(style="color:#3B5620")
               | Para la desinfección de animales en la preparación de monta, se debe estandarizar, de igual manera, un proceso para la seguridad reproductiva y física de los animales; se deben tener todos los materiales cerca para agilizar el proceso y evitar contratiempos. 
             li
-              i.fas.fa-angle-right
+              i.fas.fa-atom.p-1(style="color:#3B5620")
               | Depositar correctamente todos los elementos desechables utilizados en proceso de desinfección (gasas, frascos vacíos, guantes, entre otros).
 
 
@@ -204,40 +204,40 @@
           .col-auto
             ul.lista-ul
               li
-                i.fas.fa-angle-right
+                i.fas.fa-atom.p-1(style="color:#3B5620")
                 | Ley 1010 de 2006, por medio de la cual se adoptan medidas para prevenir, corregir y sancionar el acoso laboral y otros hostigamientos en el marco de las relaciones de trabajo.
               li
-                i.fas.fa-angle-right
+                i.fas.fa-atom.p-1(style="color:#3B5620")
                 | Código Sustantivo del Trabajo (1951), regulación de relaciones laborales.
               li
-                i.fas.fa-angle-right
+                i.fas.fa-atom.p-1(style="color:#3B5620")
                 | Resolución 1401 de 2007, por la cual se reglamenta la investigación de incidentes y accidentes de trabajo.
               li
-                i.fas.fa-angle-right
+                i.fas.fa-atom.p-1(style="color:#3B5620")
                 | Resolución 2346 de 2007, por la cual se regula la práctica de evaluaciones médicas ocupacionales y el manejo y contenido de las historias clínicas ocupacionales.
               li
-                i.fas.fa-angle-right
+                i.fas.fa-atom.p-1(style="color:#3B5620")
                 | Resolución 2646 de 2008, por la cual se establecen disposiciones y se definen responsabilidades para la identificación, evaluación, prevención, intervención y monitoreo permanente de la exposición a factores de riesgo psicosocial en el trabajo y para la determinación del origen de estas.
               li
-                i.fas.fa-angle-right
+                i.fas.fa-atom.p-1(style="color:#3B5620")
                 | Resolución 0312 de 2019, por la cual se definen los Estándares Mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST.
               li
-                i.fas.fa-angle-right
+                i.fas.fa-atom.p-1(style="color:#3B5620")
                 | Decreto 1072 de 2015, Decreto Único Reglamentario del Sector Trabajo.
               li
-                i.fas.fa-angle-right
+                i.fas.fa-atom.p-1(style="color:#3B5620")
                 | Resolución 1409 de 2012, por la cual se establece el reglamento de seguridad para protección contra caídas en trabajo en alturas.
               li
-                i.fas.fa-angle-right
+                i.fas.fa-atom.p-1(style="color:#3B5620")
                 | Decreto-Ley 1295 de 1994, por el cual se determina la organización y administración del Sistema General de Riesgos Profesionales.
               li
-                i.fas.fa-angle-right
+                i.fas.fa-atom.p-1(style="color:#3B5620")
                 | Resolución 1792 de 1990, por la cual se adoptan valores límites permisibles para la exposición ocupacional al ruido.
               li
-                i.fas.fa-angle-right
+                i.fas.fa-atom.p-1(style="color:#3B5620")
                 | Resolución 2013 de 1986, por la cual se reglamenta la organización y funcionamiento de los Comités de Medicina, Higiene y Seguridad Industrial en los lugares de trabajo.
               li
-                i.fas.fa-angle-right
+                i.fas.fa-atom.p-1(style="color:#3B5620")
                 | Resolución 2400 de 1979, por la cual se establecen algunas disposiciones sobre vivienda, higiene y seguridad en los establecimientos de trabajo.
       .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
         .col-lg-10
@@ -256,19 +256,19 @@
             .col-lg-12
               ul.lista-ul
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-atom.p-1(style="color:#3B5620")
                   | Biológicos: son de alta preocupación por la posible presencia o desarrollo de enfermedades zoonóticas.
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-atom.p-1(style="color:#3B5620")
                   | Físicos: en el caso del manejo de animales que son impredecibles en su comportamiento; además de los objetos de manipulación para animales que requieren una manipulación adecuada para evitar accidentes; instalaciones con poca infraestructura segura para los trabajadores; ruidos que puedan afectar el nivel de audición.
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-atom.p-1(style="color:#3B5620")
                   | Químicos: cuando se manipulan medicamentos, desinfectantes, vapores, entre otros.
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-atom.p-1(style="color:#3B5620")
                   | Psicosociales: están directamente relacionados con las características de la empresa, las características del grupo social de trabajo que conforma la empresa, las condiciones de las tareas y labores, la interfaz persona-tarea y la jornada de trabajo.
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-atom.p-1(style="color:#3B5620")
                   | Biomecánicos: por labores que generan movimientos cotidianos repetitivos.
                 
   </template>
