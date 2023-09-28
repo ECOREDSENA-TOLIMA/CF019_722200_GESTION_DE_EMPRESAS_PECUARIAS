@@ -524,7 +524,7 @@
     .row
       .col-xl-12       
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2.my-5 3.5 Comportamiento reproductivo animal(data-aos="zoom-in-left")
+      h2.my-5 3.5 Comportamiento reproductivo animal
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
        p El comportamiento reproductivo animal, en la gran mayoría de animales pecuarios, se presenta de la misma manera, donde las hormonas generan cambios comportamentales, donde la hembra tiene los mayores cambios debido a que se muestra inquieta, nerviosa, se presenta una elevación de la cola constante, búsqueda del macho, y en ocasiones, si se encuentra con él en el potrero, se frota con él, se deja montar por otra hembra o monta otras hembras; dentro de los  signos comportamentales más importantes, se ve el reflejo de quietud  o una aceptación a los intentos de monta.
