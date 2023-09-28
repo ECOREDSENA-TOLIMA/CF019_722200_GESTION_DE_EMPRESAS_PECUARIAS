@@ -103,7 +103,7 @@
     Separador
     .row
       .col-xl-12       
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 2.1	 Elementos de conducción, sujeción e inmovilización para los animales en reproducción
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
@@ -183,7 +183,7 @@
     Separador
     .row
       .col-xl-12       
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 2.2	 Principales enfermedades reproductivas por especie animal
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")

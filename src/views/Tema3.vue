@@ -115,7 +115,7 @@
     Separador
     .row
       .col-xl-12       
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+    #t_3_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 3.1 Fisiología de la reproducción natural
     
     .tarjeta.color-secundario.p-3.mb-5(data-aos="fade-down")(style="background-color:#F0FDE3")
@@ -166,7 +166,7 @@
     Separador
     .row
       .col-xl-12       
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+    #t_3_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 3.2 Definición y descripción de ciclo estral de los animales domésticos
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")    
@@ -254,7 +254,7 @@
     Separador
     .row
       .col-xl-12       
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 3.3 Proceso reproductivo de la monta natural
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
@@ -348,7 +348,7 @@
     Separador
     .row
       .col-xl-12       
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+    #t_3_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 3.4 Cronograma de proceso de monta natural en animales domésticos
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-12
@@ -523,7 +523,7 @@
     Separador
     .row
       .col-xl-12       
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+    #t_3_5.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 3.5 Comportamiento reproductivo animal
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -531,7 +531,7 @@
     Separador
     .row
       .col-xl-12       
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+    #t_3_6.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 3.6 Gestación por especie animal
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -600,7 +600,7 @@
     Separador
     .row
       .col-xl-12       
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+    #t_3_7.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 3.7 Evaluación de parámetros reproductivos
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")

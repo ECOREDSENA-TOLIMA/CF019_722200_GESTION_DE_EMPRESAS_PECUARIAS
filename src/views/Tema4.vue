@@ -104,7 +104,7 @@
       Separador
       .row
         .col-xl-12       
-      #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      #t_4_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
         h2.my-5 4.1 Definición y aplicación del POE en reproducción natural
       
       .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
@@ -120,7 +120,7 @@
       Separador
       .row
         .col-xl-12       
-      #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      #t_4_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
         h2.my-5 4.2 Tipos, procedimiento, registros y manejo en reproducción natural
   
       .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")        
@@ -166,7 +166,7 @@
       Separador
       .row
         .col-xl-12       
-      #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      #t_4_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
         h2.my-5 4.3 Buenas prácticas pecuarias en reproducción natural
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")        
@@ -215,7 +215,7 @@
       Separador
       .row
         .col-xl-12       
-      #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      #t_4_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
         h2.my-5 4.4 Normas de salud y seguridad en el trabajo y medio ambiente en explotaciones pecuarias dedicadas a la reproducción animal
       
       .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
