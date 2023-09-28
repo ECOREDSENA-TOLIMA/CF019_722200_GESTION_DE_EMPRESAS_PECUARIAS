@@ -13,7 +13,7 @@
     Separador
     .row
       .col-xl-12       
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 1.1	 Características reproductivas de las especies pecuarias
     
     .row.justify-content-center.mb-5
@@ -188,7 +188,7 @@
     Separador
     .row
       .col-xl-12       
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 1.3	 Anatomía del aparato reproductor de la hembra y el macho
 
     .row.justify-content-center.align-items-center.mb-5
@@ -558,7 +558,7 @@
     Separador
     .row
       .col-xl-12       
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+    #t_1_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 1.4	 Celo
     
     .row.justify-content-center.align-items-center.mb-5
@@ -624,7 +624,7 @@
     Separador
     .row
       .col-xl-12       
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+    #t_1_5.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 1.5	 Mecanismos y herramientas para la detección del celo
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
@@ -726,9 +726,7 @@
               p Existen diferentes tipos de dispositivos para la detección de la monta que generalmente trabajan bajo el sistema de marcar el animal montado debido a la aceptación de la monta, ya sea con capsulas que cambian de color, aplicación de pintura en la base de la cola o el sacro, y los sistemas electrónicos los cuales se inserta como un micro chip en la base de la cola, los toros probadores o toros desviados tendrán un lector del micro chip en un cinturón, al momento de realizar la monta este enviara un aviso del número del micro chip al computador o celular del encargado de la producción para así identificar a la hembra montada.                
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img35.png', alt='')
-        
-        
+              img(src='@/assets/curso/temas/tema1/img35.png', alt='')        
         
 </template>
 
