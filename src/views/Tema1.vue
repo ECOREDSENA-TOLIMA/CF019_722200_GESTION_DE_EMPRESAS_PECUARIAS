@@ -470,7 +470,7 @@
                 img(src='@/assets/curso/temas/tema1/img24.svg', alt='Imagen del numero dos para identificar la Musculatura cavernosa')
 
           h3.text-center Musculatura cavernosa
-          p La cual, por medio de irrigación sanguínea y llenado, genera la erección, esta musculatura se encuentra en la mayor parte del pene          
+          p La cual, por medio de irrigación sanguínea y llenado, genera la erección, esta musculatura se encuentra en la mayor parte del pene.
     
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-10

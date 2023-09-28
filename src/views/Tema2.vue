@@ -201,19 +201,24 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-lg-12
         p La brucelosis es una enfermedad que a nivel mundial produce severas pérdidas económicas en las explotaciones pecuarias (Diaz, 2013), presenta una transmisión horizontal y vertical entre los animales, es una de las principales causantes de aborto e infertilidad en las especies, siendo sus principales hospederos naturales:
-    
+
     .row.justify-content-center.mb-5
-      .col-lg-2
-        figure
-          img(src='@/assets/curso/temas/tema2/img9.svg', alt='')(data-aos="flip-up")
-      .col-lg-1
-      .col-lg-2
-        figure
-          img(src='@/assets/curso/temas/tema2/img10.svg', alt='')(data-aos="flip-up")
-      .col-lg-1
-      .col-lg-2
-        figure
-          img(src='@/assets/curso/temas/tema2/img11.svg', alt='')(data-aos="flip-up")
+      .col-lg-9
+        ImagenInfograficaB.color-primario.mb-5
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/temas/tema2/img9.svg', alt='Principales enfermedades reproductivas por especie animal')              
+
+          div(x="19%" y="89%" tooltip="Ver mas..." numero="")
+            h5 Bovinos
+            p La brucelosis bovina se produce fundamentalmente por la presencia de la bacteria Brucella abortus (Díaz, 2013) esta enfermedad ingresa al organismo por medio de la vía oral ya sea por la ingesta de alimentos, agua contaminada o consumo directo de restos de placentas, restos fetales, secreciones vaginales, y en ocasiones el contacto directo de becerros enfermos, el semen puede ser vía de transmisión de la enfermedad.
+            p La enfermedad es asintomática en vacas no gestantes lo cual al momento se convierten en vectores pasivos de la enfermedad, ya que también deber ser objeto de supervisión y acción. Las hembras afectadas generalmente desarrollan una inflamación placentaria generando abortos entre el quinto y noveno mes de gestación, se presentan signos como la eliminación de mucus vaginal, exudado vaginales con tonalidad y aspecto purulento por la carga de microorganismo bacterianos.         
+          div(x="58%" y="89%" tooltip="Ver mas..." numero="")
+            h5 Cerdos
+            p El ganado porcino doméstico está infectado principalmente por Brucella suis, aunque con menor frecuencia puede resultar infectado por B. abortus y por B. melitensis en regiones en las que la brucelosis es endémica en el ganado bovino o en los pequeños rumiantes (Díaz, 2013). El modo de ingreso es generalmente el mismo enunciado en B abortus, mediante las mucosas: orales, nasales, vaginales y conjuntivales. Los signos clínicos son imperceptibles en animales jóvenes. Se puede presentar en ambos sexos siendo el macho portador asintomático. En las producciones generalmente causan afecciones importantes ya que afecta contundentemente la fertilidad, provocando un alto porcentaje de abortos, aumento en la muerte de recién nacidos, ocasionando infertilidad en hembras y así afectando considerablemente la producción.
+          div(x="96%" y="89%" tooltip="Ver mas..." numero="")
+            h5 Ovejas
+            p En el ganado ovino la infección de la #[em brucella militensis] los signos son muy parecidos casi iguales a la brucella abortus afectando los factores de fertilidad, aumentando el número de abortos y numero de mortinatos, la vía de exposición es la misma por medio de líquidos fetales, contacto con abortos, placentas contaminadas con dicha bacteria, el contacto con hembras o machos portadores de la enfermedad. En las producciones ganaderas ovinas es común compartir pasturas entre rebaños diferentes y posteriormente retornar al corral siendo este un medio de contaminación de rebaños libres de enfermedad. Para el control de la enfermedad es importante seguir las condiciones sanitarias y de bioseguridad estipuladas por el ente regulador y los predios pecuarios ya que este es un trabajo mancomunado entre el ganadero o productor y el cuidado de animales en condiciones adecuadas para la producción y lograr una rentabilidad y el ente regulador vigilando y supervisando que se realicen bien las actividades.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-lg-12

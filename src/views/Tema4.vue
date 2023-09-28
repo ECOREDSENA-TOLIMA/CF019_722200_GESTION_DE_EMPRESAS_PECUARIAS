@@ -7,6 +7,10 @@
           span 4
         h1 Procedimientos estandarizados y de seguridad en el trabajo en la explotación destinada a la reproducción animal
       
+      .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
+        .col-lg-12
+          p Dentro del marco legal colombiano, existen los siguientes procedimientos estandarizados y de seguridad en el trabajo en la explotación destinada a la reproducción animal.
+
       .row.justify-content-center.mb-5
         .col-10
           .row.justify-content-center.align-items-center.mb-5
@@ -164,12 +168,33 @@
         .col-xl-12       
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
         h2.my-5 4.3 Buenas prácticas pecuarias en reproducción natural
-      
+
       .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")        
         .col-lg-12
-          p En el contexto productivo mundial, se busca siempre la implementación de buenas prácticas en la producción primaria, donde entidades como la FAO y OMS brindan principios para el análisis de riesgos y ayudar al lineamiento de las prácticas de bioseguridad e higiene, guiando así al productor e incentivando a realizar las cosas bien; en eso se traducen las buenas prácticas, en hacer las cosas bien y como son debidas, para evitar enfermedades en los animales, garantizar un producto inocuo, y así alcanzar estándares productivos importantes.
-          figure
-            img(src='@/assets/curso/temas/tema4/img7.svg', alt='Buenas prácticas pecuarias en reproducción natural')
+          p En el contexto productivo mundial, se busca siempre la implementación de buenas prácticas en la producción primaria, donde entidades como la FAO y OMS brindan principios para el análisis de riesgos y ayudar al lineamiento de las prácticas de bioseguridad e higiene, guiando así al productor e incentivando a realizar las cosas bien; en eso se traducen las buenas prácticas, en hacer las cosas bien y como son debidas, para evitar enfermedades en los animales, garantizar un producto inocuo, y así alcanzar estándares productivos importantes. 
+      .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")        
+        .col-lg-7
+          ImagenInfografica.color-primario
+            template(v-slot:imagen)
+              figure
+                img(src='@/assets/curso/temas/tema4/img7.svg', alt='Buenas prácticas pecuarias en reproducción natural')
+          
+            .tarjeta.color-acento-botones.p-3(x="20%" y="40%" numero="")(style="background-color:#FFFAD0;")
+              .h5.mb-2(style="color:#000000") Bienestar animal y personal
+              p(style="color:#000000") Animales sanos y productivos, proporcionar un entorno seguro, mejorar la productividad de la mano de obra, personal capacitado, con conocimiento, habilidades y capacidades apropiadas para hacer el trabajo.
+
+            .tarjeta.color-acento-botones.p-3(x="51%" y="10%" numero="")(style="background-color:#FFFAD0;")
+              .h5.mb-2(style="color:#000000") Sanidad animal
+              p(style="color:#000000") Enfocada en mantener los animales sanos, mantener la bioseguridad del sistema productivo, prevenir la trasmisión de las enfermedades entre los animales, trazabilidad.
+
+            .tarjeta.color-acento-botones.p-3(x="80%" y="40%" numero="")(style="background-color:#FFFAD0;")
+              .h5.mb-2(style="color:#000000") Plan de saneamiento
+              p(style="color:#000000") Limitar el potencial impacto de los sistemas productivos sobre el medio ambiente y riesgos a la inocuidad.
+            
+            .tarjeta.color-acento-botones.p-3(x="50%" y="67%" numero="")(style="background-color:#FFFAD0;")
+              .h5.mb-2(style="color:#000000") Buenas prácticas de uso de medicamentos veterinarios y alimentación animal
+              p(style="color:#000000") Prevenir la presencia de residuos químicos, mantener sanos y productivos a los animales con alimentos de buena calidad, preservar el suministro de agua y los alimentos para los animales libres de contaminantes químicos.
+                              
       .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")        
         .col-lg-12
           p En Colombia, se encuentra como ente regulador y guía al Instituto Colombiano Agropecuario (ICA), el cual, con sus diferentes normativas y decretos, establece diferentes requisitos sanitarios y de inocuidad, para así asegurar un producto final que no sea perjudicial para el consumidor.
@@ -242,7 +267,7 @@
       .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
         .col-lg-10
           .cajon.color-secundario.p-4.mb-4
-            p La Organización Mundial de la Salud (OMS) define la salud como un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades. Según la Guía Técnica Colombiana GTC 45/2012, en las empresas, los empleados se encuentran expuestos a diferentes riesgos, como biológicos, físicos, químicos, psicosociales, biomecánicos, relacionados con las condiciones de seguridad, y por desastres naturales
+            p La Organización Mundial de la Salud (OMS) define la salud como un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades. Según la Guía Técnica Colombiana GTC 45/2012, en las empresas, los empleados se encuentran expuestos a diferentes riesgos, como biológicos, físicos, químicos, psicosociales, biomecánicos, relacionados con las condiciones de seguridad, y por desastres naturales.
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-12
          p Algunos riesgos son:
