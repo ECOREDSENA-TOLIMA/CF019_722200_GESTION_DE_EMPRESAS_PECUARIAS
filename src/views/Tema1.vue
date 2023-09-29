@@ -218,7 +218,7 @@
     
     .row.justify-content-center.aling.items-center.mb-5
       .col-xl-12
-        p(data-aos="fade-down") Un recorrido por los aparatos reproductores de diferentes especies, permitirá conocer un poco más sobre éste tema:
+        p(data-aos="fade-down") Un recorrido por los aparatos reproductores de diferentes especies, permitirá conocer un poco más sobre este tema:
 
     .tarjeta.tarjeta--amarilla.p-4.mb-5(style="background-color:#FFFAD0")
       SlyderA(tipo="b")
@@ -226,7 +226,7 @@
           .col-md-6.mb-4.mb-md-0
           .titulo-sexto.color-acento-contenido.offset-1
             h5 Figura 2.
-            span  #[i  Órganos genitales hembras]
+            span  #[i  Posición anatómica de los órganos reproductivos de las hembras]
           .row 
             figure
             img(src='@/assets/curso/temas/tema1/img9.png', alt='Figura 2 Posición anatómica de los órganos reproductivos de las hembras. En la figura se observan la posición anatómica de los órganos reproductivos de vaca, cerda y yegua')
@@ -279,7 +279,7 @@
         .tarjeta--boton.color-secundario.p-4(style="background-color:#FFFAD0")
           .titulo-sexto.color-acento-contenido.offset-1
               h5 Figura 7.
-              span  #[i  avarios yegua]
+              span  #[i  Ovarios yegua]
           .row.justify-content-center.mb-3
             .col-7
               figure
@@ -350,7 +350,7 @@
           .row(numero="1" titulo="Oviducto o Trompas de Falopio")
             .col-md-12.mb-4.mb-md-0(style="background-color: #DBF9BD")
               p Los oviductos son estructuras pares continuas a los ovarios los cuales dentro de sus funciones básicas está: el transporte de los gametos sexuales tanto masculino como femenino, lugar donde se realiza la fecundación. Esta estructura anatómica está ligada a dos hormonas femeninas siendo la progesterona una hormona inhibitoria y el estrógeno una hormona estimulante del oviducto.
-              p El oviducto como estructura anatómica se divide en 3 porciones infundíbulo ámpula e istmo donde el infundíbulo es la porción más cercana a los ovarios la cual da tránsito y colección de óvulos para pasar el ámpula lugar donde se da la fecundación y por ultimo pasar al istmo que es el lugar más cercano a los cuerno uterinos.
+              p El oviducto como estructura anatómica se divide en 3 porciones infundíbulo ámpula e istmo donde el infundíbulo es la porción más cercana a los ovarios la cual da tránsito y colección de óvulos para pasar el ámpula lugar donde se da la fecundación y por último pasar al istmo que es el lugar más cercano a los cuernos uterinos.
           
           .row(numero="2" titulo="Cuernos uterinos")
             .col-md-12.mb-4.mb-md-0(style="background-color: #DBF9BD")
@@ -440,7 +440,7 @@
             span  #[i  Aparato reproductor de los caprinos machos ]
           .row 
             figure
-            img(src='@/assets/curso/temas/tema1/img21.png', alt='Figura 13 Aparato reproductor machos caprinos. En la figura se observan el aparato reproductor machos caprinos')
+            img(src='@/assets/curso/temas/tema1/img22.png', alt='Figura 13 Aparato reproductor machos caprinos. En la figura se observan el aparato reproductor machos caprinos')
 
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
       p.mt-3.p-2 Pene
@@ -492,7 +492,7 @@
           .col-md-12            
             figure
               img(src='@/assets/curso/temas/tema1/img25.png', alt='Figura 14. En la figura se representa el pene bovino con sus partes')
-              figcaption Adaptado de Sisson y Grossman, (1973)
+              figcaption Nota: Adaptado de Sisson y Grossman, (1973)
 
 
         .row(titulo="2")
@@ -522,15 +522,6 @@
           .col-md-12
             figure
               img(src='@/assets/curso/temas/tema1/img28.png', alt='Figura 17 Pene Equino. En la figura se representa el pene de los caprinos con sus partes.')
-        
-        .row(titulo="5")
-          .titulo-sexto.color-acento-contenido.offset-1
-            h5 Figura 17.
-            span  #[i  Pene de los caprinos ]
-        
-          .col-md-12
-            figure
-              img(src='@/assets/curso/temas/tema1/img29.png', alt='Figura 17 Pene Equino. En la figura se representa el pene de los caprinos con sus partes.')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-12
@@ -699,7 +690,7 @@
             h3 Animales marcadores
             .row.mb-5
               .col-sm.mb-5.mb-sm-0
-              p Los animales marcadorees son y serán usados, ya que nada mejor que el macho para saber cuándo montar a la hembra, además de esto, realizar un proceso de estímulo hacia la hembra hará que entre mucho más rápido a la maduraz cuando hay un macho cerca. teniendo en cuanta estos animales marcadores o probadores existen varias formas de utilizarlos, ya sea utilizando dispositivos electrónicos de detección de monta o marcadores.
+              p Los animales marcadores son y serán usados, ya que nada mejor que el macho para saber cuándo montar a la hembra, además de esto, realizar un proceso de estímulo hacia la hembra hará que entre mucho más rápido a la madurez cuando hay un macho cerca. teniendo en cuanta estos animales marcadores o probadores existen varias formas de utilizarlos, ya sea utilizando dispositivos electrónicos de detección de monta o marcadores.
               p En algunos casos el animal marcador es el mismo reproductor, de la producción y en otros casos se utilizan animales con baja carga espermática o modificados quirúrgicamente (desviados), para no realizar la preñez, marcando así las vacas en celo, que posteriormente serán llevadas al toro reproductor para realizar la monta. En cerdos es muy común el uso de machos receladores para ver comportamiento de la hembra frente al macho y signos físicos característicos.
 
           .col-md-6
