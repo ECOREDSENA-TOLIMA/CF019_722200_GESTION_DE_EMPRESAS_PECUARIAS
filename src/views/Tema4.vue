@@ -124,11 +124,11 @@
         h2.my-5 4.2 Tipos, procedimiento, registros y manejo en reproducción natural
   
       .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")        
-        .col-lg-7
+        .col-lg-12
           p En una producción pecuaria, se deben tener todos los procedimientos escritos y, con base en un proceso estructurado, estos incluirán observaciones extraordinarias de los procesos que no se pueden hacer por diferentes motivos; deben incluir hora y fecha del día de sanitización, productos y cantidades utilizados, con base en el manual de procesos operativos estandarizados en la explotación.
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")        
-        .col-lg-7
+        .col-lg-12
           p Los principales consejos para un buen procedimiento son:
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")        
