@@ -140,7 +140,7 @@
                   i.fas.fa-atom.p-1(style="color:#3B5620")
                   | Hormona adrenocorticotropa (ACTH): liberación de glucocorticoides (encargados de la regulación de la osmolaridad y el balance metabólico).
               
-              p La #[strong hipófisis superio], su principal hormona es la oxitocina, la cual ayuda a las diferentes contracciones en el trabajo de parto y también en la bajada de la leche.
+              p La #[strong hipófisis posterior], su principal hormona es la oxitocina, la cual ayuda a las diferentes contracciones en el trabajo de parto y también en la bajada de la leche.
               p El #[strong ovario] es un órgano esencial para la reproducción, porque en él se producen las principales hormonas y células para la formación y el mantenimiento de la preñez, como son los estrógenos, la progesterona y la relaxina. Estas hormonas cumplen las siguientes funciones:
 
               .row.justify-content-center.align-items-center
@@ -548,19 +548,18 @@
       .row(titulo="Placentación")
         .col-md-12
           p Hay una formación de la placenta la cual realiza diferentes funciones brindando toda la ayuda necesaria para que el embrión logre sobrevivir ayudando al intercambio de oxígeno y nutrientes, con funciones metabólicas para el almacenamiento, excretora, funciones de defensa y ayudando a las funciones endocrinas.
-          p A estas fases se les conoce como periodo embrionario después de esto se forman las membranas fetales y la vesícula amniótica dando la formación al feto. (INATEC, 2018)
+          p A estas fases se les conoce como periodo embrionario después de esto se forman las membranas fetales y la vesícula amniótica dando la formación al feto. (INATEC, 2018).
 
       .row(titulo="Periodo fetal")
         .col-md-12
-          h3 El periodo fetal
           p Es la etapa donde mayor crecimiento y desarrollo fetal hay, ya que se empiezan a desarrollar los diferentes órganos y funciones, miembros aparición de pezuñas, cascos, cuernos entre otras, el periodo fetal se representa más o menos en un porcentaje de gestación del 70% al 80 % en los animales. El desarrollo fetal se caracteriza por el crecimiento del cuerpo y por la maduración y especialización de órganos y sistemas. 
-          p Lo más característico es la formación de hueso y médula ósea, como también la diferenciación del aparato reproductor y la formación del surfactante pulmonar (Smok, 2014)      
+          p Lo más característico es la formación de hueso y médula ósea, como también la diferenciación del aparato reproductor y la formación del surfactante pulmonar (Smok, 2014).
       .row(titulo="Periodo de parto")
         .col-md-12
           p Es el momento en el cual nace la cría, previo a este se observa la hembra con comportamientos anormales se observa inquieta, intranquila, en algunos casos buscando lugares solitarios y algo escondidos, la hembra constantemente talonea el vientre, hasta que se echa y posteriormente comienzan las contracciones para la expulsión de la cría. 
           p Durante el periodo de parto hay unos acontecimientos importantes que le suceden a la hembra durante este momento:
           h3 Dilatación del cérvix 
-          p Es el momento en el que el parto inicia, el cual por medio de las contracciones uterinas mueve a la cria a la parte cervical, la placenta avanza hacia al cuello uterino logrando una dilatación de este.
+          p Es el momento en el que el parto inicia, el cual por medio de las contracciones uterinas mueve a la cría a la parte cervical, la placenta avanza hacia al cuello uterino logrando una dilatación de este.
           h3 Expulsión
           p Cuando la cría está a punto de ser expulsada o de dar a luz, el mayor esfuerzo del animal es lograr el paso de la cabeza por el canal de parto, el feto pasa por la pelvis y mediante acciones hormonales esta se separa generando un mayor espacio para que el feto pueda salir, mostrando inicialmente la cabeza posterior a esto las extremidades delanteras y por último la salida del torso y extremidades traseras.
           p No se recomienda asistir el parto halando las extremidades ya que este generaría un desgarre en la madre, o una posible lesión en la cría
@@ -643,7 +642,7 @@
           .row
             .col-md-12.mb-4.mb-md-0
               h3 Servicios por concepción (SC)
-              p Numero de servicios para lograr una gestación y así determinar la capacidad de fertilidad de un individuo o un grupo de individuos. Se tienen que evaluar los porcentajes de concepción de cada especie para así tomar acciones o no.
+              p Número de servicios para lograr una gestación y así determinar la capacidad de fertilidad de un individuo o un grupo de individuos. Se tienen que evaluar los porcentajes de concepción de cada especie para así tomar acciones o no.
           .row.justify-content-center.align-items-center
             .col-md-8.mb-4.mb-md-0
               figure
