@@ -117,7 +117,7 @@
                     | Enfermedad.
                   li 
                     i.fas.fa-minus.p-2
-                    | Cogera.
+                    | Cojera.
                   li 
                     i.fas.fa-minus.p-2
                     | Comprender etiología de la enfermedad.                 
