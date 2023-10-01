@@ -229,7 +229,7 @@
             span  #[i  Posición anatómica de los órganos reproductivos de las hembras]
           .row 
             figure
-            img(src='@/assets/curso/temas/tema1/img9.png', alt='Figura 2 Posición anatómica de los órganos reproductivos de las hembras. En la figura se observan la posición anatómica de los órganos reproductivos de vaca, cerda y yegua')
+            img(src='@/assets/curso/temas/tema1/img9_1.png', alt='Figura 2 Posición anatómica de los órganos reproductivos de las hembras. En la figura se observan la posición anatómica de los órganos reproductivos de vaca, cerda y yegua')
         
         .row
           .col-md-6.mb-4.mb-md-0
@@ -414,7 +414,7 @@
             span  #[i  Anatomía de los órganos reproductivos del macho diferentes especies]
           .row 
             figure
-            img(src='@/assets/curso/temas/tema1/img19.png', alt='Figura 10 Anatomía de los órganos reproductivos del macho diferentes especies. En la figura se representa la anatomía de los órganos reproductivos del macho diferentes especies. ')
+            img(src='@/assets/curso/temas/tema1/img19_1.png', alt='Figura 10 Anatomía de los órganos reproductivos del macho diferentes especies. En la figura se representa la anatomía de los órganos reproductivos del macho diferentes especies. ')
         .row
           .col-md-6.mb-4.mb-md-0
           .titulo-sexto.color-acento-contenido.offset-1
@@ -502,7 +502,7 @@
         
           .col-md-12
             figure
-              img(src='@/assets/curso/temas/tema1/img26.png', alt='Figura 15 Pene Equino. En la figura se representa el pene equino con sus partes.')
+              img(src='@/assets/curso/temas/tema1/img26_1.png', alt='Figura 15 Pene Equino. En la figura se representa el pene equino con sus partes.')
 
 
         .row(titulo="3")
