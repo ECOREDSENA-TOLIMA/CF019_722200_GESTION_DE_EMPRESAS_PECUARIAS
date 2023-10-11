@@ -8,7 +8,7 @@
       h1 Reproducción natural en las especies pecuarias
     .row.justify-content-center.mb-4
       .col-xl-12
-        p(data-aos="fade-down") La reproducción es un proceso por el cual se genera una descendencia de progenie, donde intervienen factores fenotípicos y genotípicos para dar las características necesarias de cada especie animal, que requiere de un macho y una hembra para realizar la copula, acto sobre el cual no hay una intervención directa del hombre.
+        p(data-aos="fade-down") La reproducción es un proceso por el cual se genera una descendencia de progenie, donde intervienen factores fenotípicos y genotípicos para dar las características necesarias de cada especie animal, que requiere de un macho y una hembra para realizar la cópula, acto sobre el cual no hay una intervención directa del hombre.
   
     Separador
     .row
@@ -349,20 +349,20 @@
         LineaTiempoD.color-acento-contenido
           .row(numero="1" titulo="Oviducto o Trompas de Falopio")
             .col-md-12.mb-4.mb-md-0(style="background-color: #DBF9BD")
-              p Los oviductos son estructuras pares continuas a los ovarios los cuales dentro de sus funciones básicas está: el transporte de los gametos sexuales tanto masculino como femenino, lugar donde se realiza la fecundación. Esta estructura anatómica está ligada a dos hormonas femeninas siendo la progesterona una hormona inhibitoria y el estrógeno una hormona estimulante del oviducto.
+              p Los oviductos son estructuras pares continuas a los ovarios, los cuales dentro de sus funciones básicas está: el transporte de los gametos sexuales tanto masculino como femenino, lugar donde se realiza la fecundación. Esta estructura anatómica está ligada a dos hormonas femeninas, siendo la progesterona una hormona inhibitoria y el estrógeno una hormona estimulante del oviducto.
               p El oviducto como estructura anatómica se divide en 3 porciones infundíbulo ámpula e istmo donde el infundíbulo es la porción más cercana a los ovarios la cual da tránsito y colección de óvulos para pasar el ámpula lugar donde se da la fecundación y por último pasar al istmo que es el lugar más cercano a los cuernos uterinos.
           
           .row(numero="2" titulo="Cuernos uterinos")
             .col-md-12.mb-4.mb-md-0(style="background-color: #DBF9BD")
-              p Estructura bicornual que forma parte del útero de gran importancia ya que allí se realiza el almacenamiento del esperma. (En las yeguas se presenta el almacenamiento en el canal cervical)
+              p Estructura bicornual que forma parte del útero de gran importancia, ya que allí se realiza el almacenamiento del esperma. (En las yeguas se presenta el almacenamiento en el canal cervical)
 
           .row(numero="3" titulo="Útero")
             .col-md-12.mb-4.mb-md-0(style="background-color: #DBF9BD")
-              p Estructura conformada por los cuernos uterinos, cuerpo del útero y cérvix. Su función principal es la de alojar el embrión o feto frente a su nutrición, crecimiento y desarrollo. Allí también se genera los procesos de placentación por medio de unas estructuras llamadas carúnculas estas se fijan a la musculatura del endometrio uniéndose a los cotiledones y por medio de acciones de los estrógenos y progesterona se da el proceso de preñez. 
+              p Estructura conformada por los cuernos uterinos, cuerpo del útero y cérvix. Su función principal es la de alojar el embrión o feto frente a su nutrición, crecimiento y desarrollo. Allí también se genera los procesos de placentación por medio de unas estructuras llamadas carúnculas, estas se fijan a la musculatura del endometrio uniéndose a los cotiledones y por medio de acciones de los estrógenos y progesterona se da el proceso de preñez. 
           
           .row(numero="4" titulo="Cérvix")
             .col-md-12.mb-4.mb-md-0(style="background-color: #DBF9BD")
-              p El cérvix es una estructura que genera protección del útero, en algunas especies como el ganado bovino este secreta un mucus con propiedades antibacterianas preparándose para la gestación (estro), cuando la vaca está servida y o gestante este cérvix produce un moco mucho más denso generando un tapón que sella y protege el útero, en caso de generar ruptura de este tapón puede provocar un aborto. En el cérvix encontramos unas estructuras muy características de cada especie que son los anillos cervicales estos cumplen una función de barrera física para evitar el ingreso de patógenos y elementos extraños.
+              p El cérvix es una estructura que genera protección del útero, en algunas especies como el ganado bovino este secreta un mucus con propiedades antibacterianas preparándose para la gestación (estro), cuando la vaca está servida y o gestante este cérvix produce un moco mucho más denso generando un tapón que sella y protege el útero, en caso de generar ruptura de este tapón puede provocar un aborto. En el cérvix encontramos unas estructuras muy características de cada especie que son los anillos cervicales, estos cumplen una función de barrera física para evitar el ingreso de patógenos y elementos extraños.
               p Cada especie animal tiene un número determinado de anillos cervicales.
               h5 Tabla 1.
               span  #[i  Características del cérvix]               
@@ -386,7 +386,7 @@
 
           .row(numero="5" titulo="Vagina")
             .col-md-12.mb-4.mb-md-0(style="background-color: #DBF9BD")
-              p Órgano en el cual se realiza la copula de forma tubular y con gran dilatación, encargada de la recepción del pene del macho y canal de parto, el piso de la vagina es llamado vestíbulo en el cual encontramos estructuras como orificio uretral, glándulas anexas y en la cerda una diferencia que es el divertículo uretral.
+              p Órgano en el cual se realiza la cópula de forma tubular y con gran dilatación, encargada de la recepción del pene del macho y canal de parto, el piso de la vagina es llamado vestíbulo en el cual encontramos estructuras como orificio uretral, glándulas anexas y en la cerda una diferencia que es el divertículo uretral.
               p En la monta natural el semen se deposita en muy cerca a la apertura del cérvix.
 
           .row(numero="6" titulo="Vulva")
@@ -530,20 +530,20 @@
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")      
       .row(titulo="Prepucio")
         .col-md-12
-          p Órgano encargado de la protección y cobertura del pene cuando no está erecto, está compuesto de una capa piel externa e interna, así como también un orificio prepucial para la salida del pene y la orina. En los equinos por la gran cantidad de pliegues tiende al acumulo de esmegma.
+          p Órgano encargado de la protección y cobertura del pene cuando no está erecto, está compuesto de una capa piel externa e interna, así como también un orificio prepucial para la salida del pene y la orina. En los equinos, por la gran cantidad de pliegues tiende al acúmulo de esmegma.
       
       .row(titulo="Testículos")
         .col-md-12
-          p Los testículos son los órganos encargados de la producción de gametos sexuales masculinos y la producción de la hormona masculina testosterona dicho órgano dependiendo la especie tiene su posición en los rumiantes evidenciamos que son colgantes y pendulantes mientras que en los equinos se encuentran no tan colgantes siendo un poco más horizontales, mientras tanto en los cerdos están más cerca de perineo y un poco más recogidos.
-          p Los testículos poseen estructuras especializadas para la producción y transporte de esperma dentro de las cuales se encuentran los túbulos seminíferos los cuales son encargados de la producción espermática después pasan a la rete testi la cual recoge los espermatozoides enviándolos a la cabeza del epidídimo donde allí realizan el proceso de maduración y posterior almacenamiento, en caso de eyaculación el esperma viajaría por el conducto deferente.
+          p Los testículos son los órganos encargados de la producción de gametos sexuales masculinos y la producción de la hormona masculina testosterona, dicho órgano dependiendo la especie tiene su posición en los rumiantes, evidenciamos que son colgantes y pendulantes mientras que en los equinos se encuentran no tan colgantes siendo un poco más horizontales, mientras tanto en los cerdos están más cerca de perineo y un poco más recogidos.
+          p Los testículos poseen estructuras especializadas para la producción y transporte de esperma dentro de las cuales se encuentran los túbulos seminíferos, los cuales son encargados de la producción espermática, después pasan a la rete testis la cual recoge los espermatozoides enviándolos a la cabeza del epidídimo donde allí realizan el proceso de maduración y posterior almacenamiento, en caso de eyaculación el esperma viajaría por el conducto deferente.
 
       .row(titulo="Escroto")
         .col-md-12
-          p El escroto es la estructura encarga de la protección y termorregulación testicular equipado de epitelio, pelos, glándulas sudoríparas sebáceas y diferentes capas de musculatura donde vemos músculos de gran importancia para la termorregulación como el musculo crémaster y el dartos.
+          p El escroto es la estructura encarga de la protección y termorregulación testicular equipado de epitelio, pelos, glándulas sudoríparas, sebáceas y diferentes capas de musculatura, donde vemos músculos de gran importancia para la termorregulación como el músculo crémaster y el dartos.
       
       .row(titulo="Glándulas accesorias")
         .col-md-12
-          p Las glándulas accesorias son de gran importancia para la reproducción masculina ya que son productoras de uno de los componentes más importantes para el transporte espermático como lo es el plasma seminal ya que sin este plasma seminal se vería afectado la nutrición, supervivencia y el transporte de los espermatozoides, como funciones complementarias ayuda a la limpieza del canal uretral.
+          p Las glándulas accesorias son de gran importancia para la reproducción masculina, ya que son productoras de uno de los componentes más importantes para el transporte espermático como lo es el plasma seminal pues sin este plasma seminal se vería afectado la nutrición, supervivencia y el transporte de los espermatozoides, como funciones complementarias ayuda a la limpieza del canal uretral.
       
 
     Separador
@@ -690,7 +690,7 @@
             h3 Animales marcadores
             .row.mb-5
               .col-sm.mb-5.mb-sm-0
-              p Los animales marcadores son y serán usados, ya que nada mejor que el macho para saber cuándo montar a la hembra, además de esto, realizar un proceso de estímulo hacia la hembra hará que entre mucho más rápido a la madurez cuando hay un macho cerca. teniendo en cuanta estos animales marcadores o probadores existen varias formas de utilizarlos, ya sea utilizando dispositivos electrónicos de detección de monta o marcadores.
+              p Los animales marcadores son y serán usados, ya que nada mejor que el macho para saber cuándo montar a la hembra, además de esto, realizar un proceso de estímulo hacia la hembra hará que entre mucho más rápido a la madurez cuando hay un macho cerca. Teniendo en cuanta estos animales marcadores o probadores existen varias formas de utilizarlos, ya sea utilizando dispositivos electrónicos de detección de monta o marcadores.
               p En algunos casos el animal marcador es el mismo reproductor, de la producción y en otros casos se utilizan animales con baja carga espermática o modificados quirúrgicamente (desviados), para no realizar la preñez, marcando así las vacas en celo, que posteriormente serán llevadas al toro reproductor para realizar la monta. En cerdos es muy común el uso de machos receladores para ver comportamiento de la hembra frente al macho y signos físicos característicos.
 
           .col-md-6
@@ -702,7 +702,7 @@
             h3 Dispositivos electrónicos
             .row.mb-5
               .col-sm.mb-5.mb-sm-0
-                p Dentro de los dispositivos electrónicos encontramos uno muy característico con un funcionamiento simple pero útil en el momento de detección de celos, los podómetros, en ganado bovino son utilizados para medir la cantidad de pasos realizados por un animal, debido a que durante el estro o celo, las vacas aumentan su actividad y tienden a caminar más, este podómetro envía los datos a un computador o celular alertando el aumento de pasos frente a días anteriores, dando así un indicio de posible celo.
+                p Dentro de los dispositivos electrónicos encontramos uno muy característico, con un funcionamiento simple, pero útil en el momento de detección de celos, los podómetros, en ganado bovino, son utilizados para medir la cantidad de pasos realizados por un animal, debido a que durante el estro o celo, las vacas aumentan su actividad y tienden a caminar más, este podómetro envía los datos a un computador o celular alertando el aumento de pasos frente a días anteriores, dando así un indicio de posible celo.
                 p Estos dispositivos vienen tanto en collares como en pulseras que se colocan por encima de los corvejones y así guardan y registran la información. Estos dispositivos tienen sus ventajas y desventajas, dentro de las principales desventajas encontramos que no son muy útiles en animales que se encuentran bajo estabulación y /o amarrados.
                                
           .col-md-6
@@ -714,7 +714,7 @@
             h3 Dispositivos de detección de monta
             .row.mb-5
               .col-sm.mb-5.mb-sm-0
-              p Existen diferentes tipos de dispositivos para la detección de la monta que generalmente trabajan bajo el sistema de marcar el animal montado debido a la aceptación de la monta, ya sea con capsulas que cambian de color, aplicación de pintura en la base de la cola o el sacro, y los sistemas electrónicos los cuales se inserta como un micro chip en la base de la cola, los toros probadores o toros desviados tendrán un lector del micro chip en un cinturón, al momento de realizar la monta este enviara un aviso del número del micro chip al computador o celular del encargado de la producción para así identificar a la hembra montada.                
+              p Existen diferentes tipos de dispositivos para la detección de la monta que generalmente trabajan bajo el sistema de marcar el animal montado debido a la aceptación de la monta, ya sea con cápsulas que cambian de color, aplicación de pintura en la base de la cola o el sacro, y los sistemas electrónicos los cuales se inserta como un microchip en la base de la cola, los toros probadores o toros desviados tendrán un lector del microchip en un cinturón, al momento de realizar la monta este enviara un aviso del número del microchip al computador o celular del encargado de la producción para así identificar a la hembra montada.                
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img35.png', alt='')        

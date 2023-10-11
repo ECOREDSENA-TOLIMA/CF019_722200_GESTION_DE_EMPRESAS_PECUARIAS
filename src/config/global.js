@@ -208,7 +208,7 @@ export default {
   },
   complementario: [
     {
-      tema: 'Bienestar animal de las especies pecuarias',
+      tema: '1.2 Bienestar animal de las especies pecuarias',
       referencia:
         'Organización Mundial de Sanidad Animal [OIE]. (s. f.). <em>Código sanitario para los animales terrestres.</em>',
       tipo: 'Página web',
@@ -216,7 +216,7 @@ export default {
         'https://www.oie.int/es/que-hacemos/normas/codigos-y-manuales/acceso-en-linea-al-codigo-terrestre/?id=169&L=1&htmfile=titre_1.7.htm',
     },
     {
-      tema: 'Anatomía del aparato reproductor del macho y de la hembra',
+      tema: '1.3 Anatomía del aparato reproductor del macho y de la hembra',
       referencia:
         'Porras, A. y Páramo, R. (2009). <em>Manual de prácticas de reproducción animal</em>. Universidad Nacional Autónoma de México.',
       tipo: 'PDF',
@@ -224,21 +224,21 @@ export default {
         'https://fmvz.unam.mx/fmvz/licenciatura/coepa/archivos/manuales_2013/Manual de Practicas de Reproduccion Animal.pdf',
     },
     {
-      tema: 'Anatomía del aparato reproductor del macho y de la hembra',
+      tema: '1.3 Anatomía del aparato reproductor del macho y de la hembra',
       referencia:
         'Cortés-Vidauri, Z., Aréchiga-Flores, C., Rincón-Delgado, M., Rochín, Berumen, F., López-Carlos, M. y Flores-Flores, G. (2018). Revisión: El Ciclo Reproductivo de la Yegua. <em>Abanico Veterinario</em>, 8(3), p. 14-41.',
       tipo: 'PDF',
       link: 'http://dx.doi.org/10.21929/abavet2018.83.1',
     },
     {
-      tema: 'Mecanismos y herramientas para la detección del celo',
+      tema: '1.5 Mecanismos y herramientas para la detección del celo',
       referencia:
         'Celotor – Detector de Celo Bovino. (2014). CELOTOR – <em>Video de presentación</em> [     Video]     . YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/PSAgVV0XdH0',
     },
     {
-      tema: 'Mecanismos y herramientas para la detección del celo',
+      tema: '1.5 Mecanismos y herramientas para la detección del celo',
       referencia:
         'Pueyo, D. (2017). <<em>Efectividad de los cuatro métodos para la detección de celo en vacuno de carne</em>. Universidad Zaragoza.',
       tipo: 'PDF',
@@ -247,7 +247,7 @@ export default {
     },
     {
       tema:
-        'Bioseguridad y manejo de los animales destinados para la reproducción natural',
+        '2 Bioseguridad y manejo de los animales destinados para la reproducción natural',
       referencia:
         'PIC North America. (2018     ). <em>Manual de manejo para centros de sementales de PIC</em>',
       tipo: 'PDF',
@@ -255,7 +255,7 @@ export default {
         'https://www.pic.com/wp-content/uploads/sites/3/2018/10/Boar-Stud-Management-Guidelines-Spanish.pdf',
     },
     {
-      tema: 'Principales enfermedades reproductivas por especie animal',
+      tema: '2.2 Principales enfermedades reproductivas por especie animal',
       referencia:
         'Alfonso, H. (2018). <em>Enfermedades de la reproducción bovina endémicas de Colombia.</em> Universidad Cooperativa de Colombia.',
       tipo: 'PDF',
@@ -263,14 +263,14 @@ export default {
         'https://repository.ucc.edu.co/bitstream/20.500.12494/12389/1/2018_enfermedades_reproduccion_bovina_.pdf',
     },
     {
-      tema: 'Principales enfermedades reproductivas por especie animal',
+      tema: '2.2 Principales enfermedades reproductivas por especie animal',
       referencia:
         'TvAgro. (2015). <em>Enfermedades Reproductivas en el Hato Ganadero</em> - TvAgro por Juan Gonzalo Angel      [     Video]     . YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=nUgDS7APBmA',
     },
     {
-      tema: 'Parámetros reproductivos en las especies pecuarias',
+      tema: '3. Parámetros reproductivos en las especies pecuarias',
       referencia:
         'Bustillo, J.      y Melo, J. (2020). <em>Parámetros reproductivos y eficiencia reproductiva en ganado bovino.</em> Universidad Cooperativa de Colombia.',
       tipo: 'PDF',
@@ -278,7 +278,8 @@ export default {
         'https://repository.ucc.edu.co/bitstream/20.500.12494/17465/1/2020_parametros_reproductivos_eficiencia.pdf',
     },
     {
-      tema: 'Cronograma de proceso de monta  natural en animales domésticos.',
+      tema:
+        '3.4 Cronograma de proceso de monta  natural en animales domésticos.',
       referencia:
         'García, T. (2017). <em>Manejo de registros para bovinos en el sistema de producción de doble propósito.</em> Ganaderia.com.',
       tipo: 'Artículo',
@@ -286,7 +287,7 @@ export default {
         'https://www.ganaderia.com/destacado/Manejo-de-registros-para-bovinos-en-el-sistema-de-produccion-de-doble-proposito',
     },
     {
-      tema: 'Gestación por especie animal',
+      tema: '3.6 Gestación por especie animal',
       referencia:
         'Smok, C., Roa, I., y Rojas, M. (2014). Desarrollo fetal en mamíferos. Int. J. Med. Surg. Sci, 1(2), p     . 139-145.',
       tipo: 'PDF',
@@ -295,7 +296,7 @@ export default {
     },
     {
       tema:
-        'Procedimientos estandarizados      y de seguridad y salud en el trabajo en la explotación destinada a la reproducción animal',
+        '4. Procedimientos estandarizados y de seguridad y salud en el trabajo en la explotación destinada a la reproducción animal',
       referencia:
         'Ministerio del Trabajo. (s. f.). Sistema de Gestión de Seguridad y Salud en el Trabajo. Gov.co.',
       tipo: 'Página web',
@@ -397,7 +398,7 @@ export default {
     },
     {
       referencia:
-        'Cruz, M., Mogollón, J., Rincón, M., Peña, N., Ruiz, S. y Lora, A. (2006). P revalencia serológica del síndrome reproductivo y respiratorio porcino (PRRS) en cerdos de explotaciones extensivas de Colombia. <em>Revista de la Facultad de Medicina Veterinaria y de Zootecnia,</em> 53(1), p. 33-41.',
+        'Cruz, M., Mogollón, J., Rincón, M., Peña, N., Ruiz, S. y Lora, A. (2006). Prevalencia serológica del síndrome reproductivo y respiratorio porcino (PRRS) en cerdos de explotaciones extensivas de Colombia. <em>Revista de la Facultad de Medicina Veterinaria y de Zootecnia,</em> 53(1), p. 33-41.',
       link: 'https://www.redalyc.org/pdf/4076/407639211004.pdf ',
     },
     {

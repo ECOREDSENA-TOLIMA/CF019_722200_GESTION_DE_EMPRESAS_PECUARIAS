@@ -308,7 +308,7 @@
       .col-lg-12
         p La selección del reproductor para la producción pecuaria es una de las labores fundamentales, porque de él depende la producción futura. Este debe tener condiciones tanto físicas como genéticas y comportamentales específicas.
 
-        p Generalmente se debe realizar un examen físico general del animal, evaluando su estado de salud completo, descartando enfermedades y malformaciones que puedan poner en riesgo la producción.
+        p Generalmente, se debe realizar un examen físico general del animal, evaluando su estado de salud completo, descartando enfermedades y malformaciones que puedan poner en riesgo la producción.
 
         p Es importante evaluar la condición corporal, la conformación del aparato locomotor, la visión, los dientes, y lo más importante, el conjunto de órganos que interfieren en la reproducción.
 
@@ -321,11 +321,11 @@
       .tarjeta.colorprimario--borde.p-4(titulo="Pene y prepucio")
         h4
         p En este se deben observar que todas las estructuras anatómicas se encuentren de manera normal, que no se observe ningún tipo de inflamación, rubor, tejido cicatrizal, la presencia del frenillo. 
-        p En prepucio de debe evaluar que la abertura prepucial si este abierta y permita una salida correcta del pene.
+        p En prepucio se debe evaluar que la abertura prepucial sí esté abierta y permita una salida correcta del pene.
       .tarjeta.colorprimario--borde.p-4(titulo="Escroto")
         h4
-        p La observación escrotal va ligada a sus funciones de protección y termorregulación teniendo esto en cuanta la evaluación debe realizarse completa y minuciosa ya que si se llega a alterar puede causar consecuencias en la espermatogénesis, observar que no tengan laceraciones, abrasiones, que su grosor sea adecuado y que posea el pelaje normal.
-        p "La circunferencia escrotal ha demostrado ser una medida confiable para predecir el peso testicular y la producción de espermatozoides en los toros en crecimiento. La producción de espermatozoides es una función directa del tamaño testicular. Esta medida ha sido utilizada además para predecir la producción de espermatozoides, calidad seminal y la fertilidad en toros adultos¨ (Osorio,2014).
+        p La observación escrotal va ligada a sus funciones de protección y termorregulación, teniendo esto en cuanta la evaluación debe realizarse completa y minuciosa, ya que si se llega a alterar puede causar consecuencias en la espermatogénesis, observar que no tengan laceraciones, abrasiones, que su grosor sea adecuado y que posea el pelaje normal.
+        p "La circunferencia escrotal ha demostrado ser una medida confiable para predecir el peso testicular y la producción de espermatozoides en los toros en crecimiento. La producción de espermatozoides es una función directa del tamaño testicular. Esta medida ha sido utilizada además para predecir la producción de espermatozoides, calidad seminal y la fertilidad en toros adultos (Osorio,2014).
       .tarjeta.colorprimario--borde.p-4(titulo="Testículos, epidídimo y escroto")
         h4
         p En los testículos se observan y se palpa el tamaño, forma y eje de rotación, seguidamente se inspecciona la cola del epidídimo y como se encuentra este frente a simetría testicular todo bajo cierta suavidad en la palpación para así lograr un examen adecuado sin causar ningún tipo de lesión al animal.
@@ -334,12 +334,12 @@
         p Para la medición se utilizan diferentes escalas o criterios de medición, los cuales pueden llegar a ser muy subjetivos escala galloway donde 1 fibrosis-nula elasticidad. 2, 3,4 tono normal- buena elasticidad. 5 flaccidez-esponjosidad.
       .tarjeta.colorprimario--borde.p-4(titulo="Glándulas accesorias")
         h4
-        p La palpación de las glándulas accesorias en los machos se realiza de forma rectal donde se evalúa tamaño posición y normalidad al tacto dentro de estas se evalúa la próstata, glándulas bulbo uretrales y vesículas seminales.
+        p La palpación de las glándulas accesorias en los machos se realiza de forma rectal donde se evalúa tamaño, posición y normalidad al tacto, dentro de estas se evalúa la próstata, glándulas bulbo uretrales y vesículas seminales.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-8
         p Luego, se evalúa la aptitud de monta, que es la capacidad comportamental que tiene el macho para montar a la hembra desde la identificación, acercamiento, el #[em Flehmen], el cortejo e inmovilidad por parte de la hembra, la monta, la penetración, y por último, la eyaculación, o en algunos casos, se le nombra como golpe de riñón, el cual es signo inequívoco de eyaculación.
-        p Por último y no menos importante, se evalúa el componente seminal. Inicialmente, de forma macroscópica, observando que el volumen y el aspecto sean normales, que no se vean grumos, que su coloración sea la normal de la especie, normalmente son cremosos grisáceos, que en volumen sea el contenido necesario; para después, microscópicamente, evaluar motilidad, y motilidad masal, la cual comprende la cantidad de espermatozoides móviles; viabilidad, que es la evaluación de espermatozoides vivos y muertos; concentración, que es el número de espermatozoides en un metro cúbico eyaculado; y morfología, que evalúa la proporción de espermatozoides anormales según sus condiciones morfológicas.
+        p Por último, y no menos importante, se evalúa el componente seminal. Inicialmente, de forma macroscópica, observando que el volumen y el aspecto sean normales, que no se vean grumos, que su coloración sea la normal de la especie, normalmente son cremosos, grisáceos, que en volumen sea el contenido necesario; para después, microscópicamente, evaluar motilidad, y motilidad masal, la cual comprende la cantidad de espermatozoides móviles; viabilidad, que es la evaluación de espermatozoides vivos y muertos; concentración, que es el número de espermatozoides en un metro cúbico eyaculado; y morfología, que evalúa la proporción de espermatozoides anormales según sus condiciones morfológicas.
         p Bajo estas condiciones y estándares, se selecciona un buen reproductor, el cual será aprovechado en su potencial genético hasta que este decaiga.
       .col-lg-4
         figure
@@ -427,7 +427,7 @@
             tbody
               tr
                 td Parto
-                td 
+                td X
                 td X
                 td X
                 td X
@@ -441,7 +441,7 @@
                 td X
               tr
                 td Lactancia
-                td 
+                td X
                 td X
                 td X
                 td X
@@ -543,28 +543,28 @@
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")      
       .row(titulo="Implantación")
         .col-md-12
-          p Es cuando el ovulo fertilizado se dirige al útero para hacer le proceso de implantación donde posteriormente el embrión iniciara su proceso de crecimiento y desarrollo. En la yegua es entre 55-65 días, en la vaca de 33 a 35 y en la oveja es de 12 a 18 días. Posterior a este se da un proceso llamado placentación.
+          p Es cuando el óvulo fertilizado se dirige al útero para hacer le proceso de implantación, donde posteriormente el embrión iniciara su proceso de crecimiento y desarrollo. En la yegua es entre 55-65 días, en la vaca de 33 a 35 y en la oveja es de 12 a 18 días. Posterior a este se da un proceso llamado placentación.
       
       .row(titulo="Placentación")
         .col-md-12
-          p Hay una formación de la placenta la cual realiza diferentes funciones brindando toda la ayuda necesaria para que el embrión logre sobrevivir ayudando al intercambio de oxígeno y nutrientes, con funciones metabólicas para el almacenamiento, excretora, funciones de defensa y ayudando a las funciones endocrinas.
-          p A estas fases se les conoce como periodo embrionario después de esto se forman las membranas fetales y la vesícula amniótica dando la formación al feto. (INATEC, 2018).
+          p Hay una formación de la placenta, la cual realiza diferentes funciones, brindando toda la ayuda necesaria para que el embrión logre sobrevivir, ayudando al intercambio de oxígeno y nutrientes, con funciones metabólicas para el almacenamiento, excretora, funciones de defensa y ayudando a las funciones endocrinas.
+          p A estas fases se les conoce como periodo embrionario, después de esto se forman las membranas fetales y la vesícula amniótica dando la formación al feto. (INATEC, 2018).
 
       .row(titulo="Periodo fetal")
         .col-md-12
-          p Es la etapa donde mayor crecimiento y desarrollo fetal hay, ya que se empiezan a desarrollar los diferentes órganos y funciones, miembros aparición de pezuñas, cascos, cuernos entre otras, el periodo fetal se representa más o menos en un porcentaje de gestación del 70% al 80 % en los animales. El desarrollo fetal se caracteriza por el crecimiento del cuerpo y por la maduración y especialización de órganos y sistemas. 
+          p Es la etapa donde mayor crecimiento y desarrollo fetal hay, ya que se empiezan a desarrollar los diferentes órganos y funciones, miembros, aparición de pezuñas, cascos, cuernos, entre otras, el periodo fetal se representa más o menos en un porcentaje de gestación del 70% al 80 % en los animales. El desarrollo fetal se caracteriza por el crecimiento del cuerpo y por la maduración y especialización de órganos y sistemas. 
           p Lo más característico es la formación de hueso y médula ósea, como también la diferenciación del aparato reproductor y la formación del surfactante pulmonar (Smok, 2014).
       .row(titulo="Periodo de parto")
         .col-md-12
-          p Es el momento en el cual nace la cría, previo a este se observa la hembra con comportamientos anormales se observa inquieta, intranquila, en algunos casos buscando lugares solitarios y algo escondidos, la hembra constantemente talonea el vientre, hasta que se echa y posteriormente comienzan las contracciones para la expulsión de la cría. 
+          p Es el momento en el cual nace la cría, previo a este se observa la hembra con comportamientos anormales, se observa inquieta, intranquila, en algunos casos buscando lugares solitarios y algo escondidos, la hembra constantemente talonea el vientre, hasta que se echa y posteriormente comienzan las contracciones para la expulsión de la cría. 
           p Durante el periodo de parto hay unos acontecimientos importantes que le suceden a la hembra durante este momento:
           h3 Dilatación del cérvix 
           p Es el momento en el que el parto inicia, el cual por medio de las contracciones uterinas mueve a la cría a la parte cervical, la placenta avanza hacia al cuello uterino logrando una dilatación de este.
           h3 Expulsión
           p Cuando la cría está a punto de ser expulsada o de dar a luz, el mayor esfuerzo del animal es lograr el paso de la cabeza por el canal de parto, el feto pasa por la pelvis y mediante acciones hormonales esta se separa generando un mayor espacio para que el feto pueda salir, mostrando inicialmente la cabeza posterior a esto las extremidades delanteras y por último la salida del torso y extremidades traseras.
-          p No se recomienda asistir el parto halando las extremidades ya que este generaría un desgarre en la madre, o una posible lesión en la cría
+          p No se recomienda asistir el parto halando las extremidades, ya que este generaría un desgarre en la madre, o una posible lesión en la cría.
           h3 Expulsión de la placenta
-          p Se da por el rompimiento de la unión entre cotiledones y carúnculas causado por las contracciones uterinas esta placenta debe ser expulsada con sus líquidos y restos placentarios, las especies animales tienen tendencia a comerse esos restos sin consecuencias patológicas.
+          p Se da por el rompimiento de la unión entre cotiledones y carúnculas causado por las contracciones uterinas, esta placenta debe ser expulsada con sus líquidos y restos placentarios, las especies animales tienen tendencia a comerse esos restos sin consecuencias patológicas.
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-12
@@ -612,8 +612,8 @@
           .row
             .col-md-12.mb-4.mb-md-0
               h3 La pubertad (EP)
-              p El inicio de la pubertad es un factor importante ya que este da el inicio a los diferentes programas de reproducción instaurados en la explotación.
-              p La pubertad y la edad son proporcionales ya que una hembra que inicie su pubertad a edad temprana más rendimiento productivo tendrá.
+              p El inicio de la pubertad es un factor importante, ya que este da el inicio a los diferentes programas de reproducción instaurados en la explotación.
+              p La pubertad y la edad son proporcionales puesto que una hembra que inicie su pubertad a edad temprana más rendimiento productivo tendrá.
               p La pubertad se calcula de la siguiente manera:
           .row.justify-content-center.align-items-center
             .col-md-8.mb-4.mb-md-0
@@ -660,7 +660,7 @@
           .row
             .col-md-12.mb-4.mb-md-0
               h3 Intervalo parto concepción (IPC) Días abiertos (DA) Días vacíos (DV)
-              p Es el momento que trascurre entre el parto y una nueva preñez a este se le denomina días abierto o días vacíos en las producciones pecuarias es de gran importancia ya que entre menos sean los días abiertos para las hembras más rápido será el ciclo de dicha explotación.
+              p Es el momento que trascurre entre el parto y una nueva preñez, a este se le denomina días abierto o días vacíos en las producciones pecuarias es de gran importancia, ya que entre menos sean los días abiertos para las hembras más rápido será el ciclo de dicha explotación.
           .row.justify-content-center.align-items-center
             .col-md-8.mb-4.mb-md-0
               figure

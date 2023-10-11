@@ -46,7 +46,7 @@
                     .tarjeta.color-secundario
                       .p-4
                         h4 Saneamiento ambiental
-                        p Evaluación de factores ambientales o situaciones generadas en el trabajo que puedan afectar la salud mediante enfermedades zoonóticas y no zoonóticas.                      
+                        p Realización de actividades que promuevan el respeto y la utilización consciente de los recursos naturales y su cuidado para una futura disponibilidad de los mismos.
               br
               .row
                 .col-12
@@ -56,7 +56,7 @@
                     .tarjeta.color-secundario
                       .p-4
                         h4 Seguridad industrial
-                        p Realización de actividades que promuevan el respeto y la utilización consciente de los recursos naturales y su cuidado para una futura disponibilidad de los mismos.
+                        p Permite el control de factores de riesgo que puedan afectar la salud del trabajador (accidentes de trabajo).
       
       .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
         .col-lg-12
@@ -113,7 +113,7 @@
             img(src='@/assets/curso/temas/tema4/img5.png', alt='Términos importantes: Primer servicio, Primer parto, Tasa de concepción, Intervalos tasa de concepción o intervalos entre partos ')
         .col-lg-7
           p Los Procesos Operativos Estandarizados (POE) en una explotación pecuaria garantizan la uniformidad, calidad y consistencia de los procesos ejecutados.
-          P Para la elaboración de actividad de reproducción, se deben estandarizar procesos para garantizar un buen resultado y una buena inocuidad, de manera que no se afecte la reproducción generando abortos y complicaciones durante el periodo de gestación. La realización de POE es requerida para las buenas prácticas de producción (BPP) y normas internacionales como ISO.
+          P Para la elaboración de actividad de reproducción, se deben estandarizar procesos para garantizar un buen resultado y una buena inocuidad, de manera que no se afecte la reproducción, generando abortos y complicaciones durante el periodo de gestación. La realización de POE es requerida para las buenas prácticas de producción (BPP) y normas internacionales como ISO.
           P Los POE se basan en una secuencia estructurada de procesos para determinada actividad, deben ser completamente aplicables y específicos para cada lugar de operación. 
           P Para las instalaciones pecuarias, se debe llevar un registro real y detallado de procedimientos de saneamiento; son registros que resolverían interrogantes en posibles contratiempos durante los periodos de producción. En monta natural controlada de animales, lo más importante es el proceso de la desinfección de los animales y de las instalaciones, para generar una mayor probabilidad de éxito al momento de ejecutar los procesos. Los objetivos directos del saneamiento son la eliminación de patógenos y polvo y endotoxinas.
 

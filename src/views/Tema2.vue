@@ -132,7 +132,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h3 Narigueras
-            p Aros utilizados para el manejo de animales los cuales se ubican en las fosas nasales ejerciendo presión y dando así un manejo del animal. Existen narigueras móviles y fijas ambas cumplen la función de sujeción, conducción e inmovilización, muy común en el manejo de bovinos.
+            p Aros utilizados para el manejo de animales, los cuales se ubican en las fosas nasales ejerciendo presión y dando así un manejo del animal. Existen narigueras móviles y fijas, ambas cumplen la función de sujeción, conducción e inmovilización, muy común en el manejo de bovinos.
             .row.mb-5
               .col-sm.mb-5.mb-sm-0
                 ul
@@ -148,7 +148,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h3 Sogas - lazos
-            p Las sogas son esenciales para el manejo de los animales ya que son versátiles y por medio de ellas se pueden realizar tanto técnicas de sujeción, como herramientas, ya que por medio de nudos se pueden hacer bósales, cabezales, amarres, y son esenciales para hacer una conducción, sujeción e inmovilización segura tanto para el operario como para el animal.
+            p Las sogas son esenciales para el manejo de los animales, ya que son versátiles y por medio de ellas se pueden realizar tanto técnicas de sujeción, como herramientas, puesto que por medio de nudos se pueden hacer bózales, cabezales, amarres, y son esenciales para hacer una conducción, sujeción e inmovilización segura tanto para el operario como para el animal.
             
           .col-md-6
             figure
@@ -156,7 +156,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h3 Cabezales
-            p Los cabezales son las herramientas de conducción animal más comunes en las diferentes producciones tanto en campo como en exposición ya que son herramientas verdaderamente útiles sencillas y que al animal no le genera ningún tipo de estrés ni dolor. Requieren de un proceso de amansamiento. Vienen de distintos materiales como sogas, cuero, nailon, y cadenilla.
+            p Los cabezales son las herramientas de conducción animal más comunes en las diferentes producciones tanto en campo como en exposición, ya que son herramientas verdaderamente útiles, sencillas y que al animal no le genera ningún tipo de estrés ni dolor. Requieren de un proceso de amansamiento. Vienen de distintos materiales como sogas, cuero, nailon, y cadenilla.
             
           .col-md-6
             figure
@@ -164,8 +164,8 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h3 Cepos para monta / apretaderos Toriles de monta
-            p Los cepos para monta, apretaderos son herramientas especiales para la ayudar a la inmovilización de la hembra y una fácil monta del macho, asegurando así una monta adecuada y sin riesgo de caídas lesiones, movimientos bruscos.
-            p Se recomienda dejar que el macho tome su tiempo reconozca la hembra y realice el ritual de apareamiento.
+            p Los cepos para monta, apretaderos son herramientas especiales para ayudar a la inmovilización de la hembra y una fácil monta del macho, asegurando así una monta adecuada y sin riesgo de caídas lesiones, movimientos bruscos.
+            p Se recomienda dejar que el macho tome su tiempo, reconozca la hembra y realice el ritual de apareamiento.
             
           .col-md-6
             figure
@@ -211,14 +211,14 @@
 
           div(x="19%" y="89%" tooltip="Ver mas..." numero="")
             h5 Bovinos
-            p La brucelosis bovina se produce fundamentalmente por la presencia de la bacteria Brucella abortus (Díaz, 2013) esta enfermedad ingresa al organismo por medio de la vía oral ya sea por la ingesta de alimentos, agua contaminada o consumo directo de restos de placentas, restos fetales, secreciones vaginales, y en ocasiones el contacto directo de becerros enfermos, el semen puede ser vía de transmisión de la enfermedad.
-            p La enfermedad es asintomática en vacas no gestantes lo cual al momento se convierten en vectores pasivos de la enfermedad, ya que también deber ser objeto de supervisión y acción. Las hembras afectadas generalmente desarrollan una inflamación placentaria generando abortos entre el quinto y noveno mes de gestación, se presentan signos como la eliminación de mucus vaginal, exudado vaginales con tonalidad y aspecto purulento por la carga de microorganismo bacterianos.         
+            p La brucelosis bovina se produce fundamentalmente por la presencia de la bacteria Brucella abortus (Díaz, 2013) esta enfermedad ingresa al organismo por medio de la vía oral, ya sea por la ingesta de alimentos, agua contaminada o consumo directo de restos de placentas, restos fetales, secreciones vaginales, y en ocasiones el contacto directo de becerros enfermos, el semen puede ser vía de transmisión de la enfermedad.
+            p La enfermedad es asintomática en vacas no gestantes, lo cual al momento se convierten en vectores pasivos de la enfermedad, ya que también deber ser objeto de supervisión y acción. Las hembras afectadas generalmente desarrollan una inflamación placentaria, generando abortos entre el quinto y noveno mes de gestación, se presentan signos como la eliminación de mucus vaginal, exudado vaginal con tonalidad y aspecto purulento por la carga de microorganismo bacterianos.         
           div(x="58%" y="89%" tooltip="Ver mas..." numero="")
             h5 Cerdos
-            p El ganado porcino doméstico está infectado principalmente por Brucella suis, aunque con menor frecuencia puede resultar infectado por B. abortus y por B. melitensis en regiones en las que la brucelosis es endémica en el ganado bovino o en los pequeños rumiantes (Díaz, 2013). El modo de ingreso es generalmente el mismo enunciado en B abortus, mediante las mucosas: orales, nasales, vaginales y conjuntivales. Los signos clínicos son imperceptibles en animales jóvenes. Se puede presentar en ambos sexos siendo el macho portador asintomático. En las producciones generalmente causan afecciones importantes ya que afecta contundentemente la fertilidad, provocando un alto porcentaje de abortos, aumento en la muerte de recién nacidos, ocasionando infertilidad en hembras y así afectando considerablemente la producción.
+            p El ganado porcino doméstico está infectado principalmente por Brucella suis, aunque con menor frecuencia puede resultar infectado por B. abortus y por B. melitensis en regiones en las que la brucelosis es endémica en el ganado bovino o en los pequeños rumiantes (Díaz, 2013). El modo de ingreso es generalmente el mismo enunciado en B abortus, mediante las mucosas: orales, nasales, vaginales y conjuntivales. Los signos clínicos son imperceptibles en animales jóvenes. Se puede presentar en ambos sexos, siendo el macho portador asintomático. En las producciones generalmente causan afecciones importantes, ya que afecta contundentemente la fertilidad, provocando un alto porcentaje de abortos, aumento en la muerte de recién nacidos, ocasionando infertilidad en hembras y así afectando considerablemente la producción.
           div(x="96%" y="89%" tooltip="Ver mas..." numero="")
             h5 Ovejas
-            p En el ganado ovino la infección de la #[em brucella militensis] los signos son muy parecidos casi iguales a la brucella abortus afectando los factores de fertilidad, aumentando el número de abortos y numero de mortinatos, la vía de exposición es la misma por medio de líquidos fetales, contacto con abortos, placentas contaminadas con dicha bacteria, el contacto con hembras o machos portadores de la enfermedad. En las producciones ganaderas ovinas es común compartir pasturas entre rebaños diferentes y posteriormente retornar al corral siendo este un medio de contaminación de rebaños libres de enfermedad. Para el control de la enfermedad es importante seguir las condiciones sanitarias y de bioseguridad estipuladas por el ente regulador y los predios pecuarios ya que este es un trabajo mancomunado entre el ganadero o productor y el cuidado de animales en condiciones adecuadas para la producción y lograr una rentabilidad y el ente regulador vigilando y supervisando que se realicen bien las actividades.
+            p En el ganado ovino la infección de la #[em brucella militensis] los signos son muy parecidos casi iguales a la brucella abortus afectando los factores de fertilidad, aumentando el número de abortos y numero de mortinatos, la vía de exposición es la misma por medio de líquidos fetales, contacto con abortos, placentas contaminadas con dicha bacteria, el contacto con hembras o machos portadores de la enfermedad. En las producciones ganaderas ovinas es común compartir pasturas entre rebaños diferentes y posteriormente retornar al corral, siendo este un medio de contaminación de rebaños libres de enfermedad. Para el control de la enfermedad es importante seguir las condiciones sanitarias y de bioseguridad estipuladas por el ente regulador y los predios pecuarios, ya que este es un trabajo mancomunado entre el ganadero o productor y el cuidado de animales en condiciones adecuadas para la producción y lograr una rentabilidad y el ente regulador vigilando y supervisando que se realicen bien las actividades.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-lg-12
@@ -238,8 +238,8 @@
           img(src="@/assets/curso/temas/tema2/img12.png", alt="Leptospirosis (zoonóticas)")
       .col-lg-9
         p La leptospirosis es una zoonosis bacteriana de importancia económica en la industria pecuaria, debido a que provoca abortos, mortinatos, infertilidad y disminución en la producción lechera, lo cual genera pérdidas económicas significativas a los productores. (Hernández y Gómez, 2011).
-        p La leptospira es una bacteria con características muy complicadas de identificación, ya que posee más de 7 variantes infecciosas, las cuales tienen un hospedador de mantenimiento, que serían los roedores, y unos hospederos accidentales, predominando la variante hardjo, las diferentes especies pecuarias y los humanos (zoonosis); teniendo en cuenta las consideraciones anteriores, es importante su control y vigilancia. ¨La leptospirosis es una enfermedad cuyas manifestaciones clínicas, muy variadas, van desde cuadros subclínicos, abortos, momificaciones y mortalidad al nacimiento, que afecta los ciclos de producción y productividad, hasta provocar complicaciones multiorgánicas que pueden conducir a la muerte. (Hernández y Gómez, 2011).
-        p En las especies pecuarias, la principal forma de ingreso del agente al organismo son las mucosas orales nasales y conjuntivales, así como heridas abiertas y/o no sanadas por completo. Con un periodo de incubación de 3 a 12 días, los signos iniciales de la enfermedad son los característicos de una infección bacteriana común, como fiebre, pérdida de apetito, dificultad respiratoria, pérdida de energía, dolor articular, entre otros. Posteriormente, la bacteria viaja a órganos diana u objetivos, donde verdaderamente provoca un daño mucho más severo, como son los órganos reproductores, pulmones, hígado, riñones, siendo este último órgano importante también para la diseminación de la enfermedad, ya que la leptospira tiene una gran capacidad de supervivencia en la orina y así puede contaminar de manera permanente el medio. De allí la importancia de los roedores en su ciclo de propagación, ya que estos se encuentran en los diferentes hemisferios terrestres.
+        p La leptospira es una bacteria con características muy complicadas de identificación, ya que posee más de 7 variantes infecciosas, las cuales tienen un hospedador de mantenimiento, que serían los roedores, y unos hospederos accidentales, predominando la variante hardjo, las diferentes especies pecuarias y los humanos (zoonosis); teniendo en cuenta las consideraciones anteriores, es importante su control y vigilancia. La leptospirosis es una enfermedad cuyas manifestaciones clínicas, muy variadas, van desde cuadros subclínicos, abortos, momificaciones y mortalidad al nacimiento, que afecta los ciclos de producción y productividad, hasta provocar complicaciones multiorgánicas que pueden conducir a la muerte. (Hernández y Gómez, 2011).
+        p En las especies pecuarias, la principal forma de ingreso del agente al organismo son las mucosas orales nasales y conjuntivales, así como heridas abiertas y/o no sanadas por completo. Con un periodo de incubación de 3 a 12 días, los signos iniciales de la enfermedad son los característicos de una infección bacteriana común, como fiebre, pérdida de apetito, dificultad respiratoria, pérdida de energía, dolor articular, entre otros. Posteriormente, la bacteria viaja a órganos diana u objetivos, donde verdaderamente provoca un daño mucho más severo, como son los órganos reproductores, pulmones, hígado, riñones, siendo este último órgano importante también para la diseminación de la enfermedad, ya que la leptospira tiene una gran capacidad de supervivencia en la orina y así puede contaminar de manera permanente el medio. De allí la importancia de los roedores en su ciclo de propagación, porque estos se encuentran en los diferentes hemisferios terrestres.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-lg-10
