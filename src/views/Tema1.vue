@@ -229,7 +229,7 @@
             span  #[i  Posición anatómica de los órganos reproductivos de las hembras]
           .row 
             figure
-            img(src='@/assets/curso/temas/tema1/img9_1.png', alt='Figura 2 Posición anatómica de los órganos reproductivos de las hembras. En la figura se observan la posición anatómica de los órganos reproductivos de vaca, cerda y yegua')
+            img(src='@/assets/curso/temas/tema1/img9_1.png', alt='Figura 2 Posición anatómica de los órganos reproductivos de las hembras. En la figura se observan la posición anatómica de los órganos reproductivos de vaca, cerda y yegua, incluyendo ovario, oviducto, carúncula, cuernos uterinos, cérvix, vagina, vejiga, glándula mamaria, recto, saco rectogenital.')
         
         .row
           .col-md-6.mb-4.mb-md-0
@@ -247,7 +247,7 @@
             span  #[i  Tracto reproductivo de la cerda]
           .row 
             figure
-            img(src='@/assets/curso/temas/tema1/img11.png', alt='Figura 4 Tracto reproductivo de la cerda. En la figura se observan el tracto reproductivo de la cerda.')
+            img(src='@/assets/curso/temas/tema1/img11.png', alt='Figura 4 En la figura se observan el tracto reproductivo de la cerda, incluyendo cuernos uterinos, oviducto, ovario, aorta, arterias uterinas, cérvix, vejiga, uretra, pelvis, recto, vagina, vulva.')
         
         .row
           .col-md-6.mb-4.mb-md-0
@@ -256,7 +256,7 @@
             span  #[i  Aparato reproductivo yegua]
           .row 
             figure
-            img(src='@/assets/curso/temas/tema1/img12.png', alt='Figura 5 Tracto reproductivo de la yegua. En la figura se observan el tracto reproductivo de la yegua.')
+            img(src='@/assets/curso/temas/tema1/img12.png', alt='Fugura 5 En la figura se observan aparato reproductivo yegua, incluyendo vulva, vagina, uretra, pelvis, cérvix, vejiga, cuerpo del útero, prolongación derecha del útero, trompa de Falopio, ovario, uréteres, riñones.')
         
         .row
           .col-md-6.mb-4.mb-md-0
@@ -265,7 +265,7 @@
             span  #[i  Aparato reproductivo cabra]
           .row 
             figure
-            img(src='@/assets/curso/temas/tema1/img13.png', alt='Figura 6 Aparato reproductivo cabra. En la figura se observan aparato reproductivo cabra')
+            img(src='@/assets/curso/temas/tema1/img13.png', alt='Figura 6 Aparato reproductivo cabra. En la figura se observan aparato reproductivo de la cabra, incluyendo vagina, útero, ovario, vulva, ano.')
 
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
       p.mt-3.p-2 Ovarios
@@ -414,7 +414,7 @@
             span  #[i  Anatomía de los órganos reproductivos del macho diferentes especies]
           .row 
             figure
-            img(src='@/assets/curso/temas/tema1/img19_1.png', alt='Figura 10 Anatomía de los órganos reproductivos del macho diferentes especies. En la figura se representa la anatomía de los órganos reproductivos del macho diferentes especies. ')
+            img(src='@/assets/curso/temas/tema1/img19_1.png', alt='Figura 10 Anatomía de los órganos reproductivos del macho diferentes especies. En la figura se representa la anatomía de los órganos reproductivos del macho diferentes especies, incluyendo gato, perro, carnero, verraco, toro, garañón, igualmente la arteria testicular, conducto deferente, testículos, sínfisis pélvica, glándulas bulbouretrales, próstata, vesículas seminales.')
         .row
           .col-md-6.mb-4.mb-md-0
           .titulo-sexto.color-acento-contenido.offset-1
@@ -422,7 +422,7 @@
             span  #[i  Anatomía del aparato reproductor del macho bovino]
           .row 
             figure
-            img(src='@/assets/curso/temas/tema1/img20.png', alt='Figura 11 Anatomía del aparato reproductor del macho bovino. En la figura se representa la posición anatomía del aparato reproductor del macho Bovino')
+            img(src='@/assets/curso/temas/tema1/img20.png', alt='Figura 11 Anatomía del aparato reproductor del macho bovino. En la figura se representa la posición anatomía del aparato reproductor del macho bovino, incluyendo vesículas seminales, ámpula, vejiga, uretra, conducto deferente, pene, testículos, escroto, epidídimo, próstata, recto, glándulas de Cowper, músculo retractor.')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -431,16 +431,24 @@
             span  #[i  Posición anatómica de los órganos reproductivos machos]
           .row 
             figure
-            img(src='@/assets/curso/temas/tema1/img21.png', alt='Figura 12 Posición anatómica de los órganos reproductivos machos. En la figura se representa la posición anatómica de los órganos reproductivos de los machos')
+            img(src='@/assets/curso/temas/tema1/img21.png', alt='Figura 12 Posición anatómica de los órganos reproductivos machos. En la figura se representa la posición anatómica de los órganos reproductivos de los machos, incluyendo saco prepucial, vejiga, vasos sanguíneos espermáticos, uréter, vesículas seminales, glándula prostática, glándula bulbouretral, uretra, conducto deferente, epidídimo, escroto, testículo.')
 
         .row
           .col-md-6.mb-4.mb-md-0
           .titulo-sexto.color-acento-contenido.offset-1
             h5 Figura 13.
-            span  #[i  Aparato reproductor de los caprinos machos ]
+            span  #[i  Aparato reproductor masculino la uretra ]
           .row 
             figure
-            img(src='@/assets/curso/temas/tema1/img22.png', alt='Figura 13 Aparato reproductor machos caprinos. En la figura se observan el aparato reproductor machos caprinos')
+            img(src='@/assets/curso/temas/tema1/img22.png', alt='Figura 13 Aparato reproductor masculino la uretra. En la figura se representa el aparato reproductor masculino incluyendo vesícula seminal ámpula, conducto deferente, testículo epidídimo, glándula bulbo-uretral, próstata, pene, músculo retractor, ese del pene.')
+        .row
+          .col-md-6.mb-4.mb-md-0
+          .titulo-sexto.color-acento-contenido.offset-1
+            h5 Figura 14.
+            span  #[i  Aparato reproductor machos caprinos ]
+          .row 
+            figure
+            img(src='@/assets/curso/temas/tema1/img22.png', alt='Figura 14 Aparato reproductor machos caprinos. En la figura se representa el aparato reproductor machos caprinos, próstata, glándula vesicular, ampolla del conducto deferente, vejiga, conducto deferente, glande del pene, prepucio, plexo pampini forme, apéndice filiforme, cabeza del epidídimo, cola del epidídimo, escroto, cuerpo del epidídimo, testículo, pene, flexura sigmoidea, músculo retractor del pene, glándula bulbo-uretral, recto.')
 
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
       p.mt-3.p-2 Pene
@@ -486,42 +494,42 @@
       LineaTiempoC.color-acento-contenido
         .row(titulo="1")
           .titulo-sexto.color-acento-contenido.offset-1
-            h5 Figura 14.
+            h5 Figura 15.
             span  #[i  Pene bovino ]          
 
           .col-md-12            
             figure
-              img(src='@/assets/curso/temas/tema1/img25.png', alt='Figura 14. En la figura se representa el pene bovino con sus partes')
+              img(src='@/assets/curso/temas/tema1/img25.png', alt='Figura 14 Aparato reproductor machos caprinos. En la figura se representa el aparato reproductor machos caprinos, próstata, glándula vesicular, ampolla del conducto deferente, vejiga, conducto deferente, glande del pene, prepucio, plexo pampini forme, apéndice filiforme, cabeza del epidídimo, cola del epidídimo, escroto, cuerpo del epidídimo, testículo, pene, flexura sigmoidea, músculo retractor del pene, glándula bulbo-uretral, recto.')
               figcaption Nota: Adaptado de Sisson y Grossman, (1973)
 
 
         .row(titulo="2")
           .titulo-sexto.color-acento-contenido.offset-1
-            h5 Figura 15.
+            h5 Figura 16.
             span  #[i  Pene equino]
         
           .col-md-12
             figure
-              img(src='@/assets/curso/temas/tema1/img26_1.png', alt='Figura 15 Pene Equino. En la figura se representa el pene equino con sus partes.')
+              img(src='@/assets/curso/temas/tema1/img26_1.png', alt='Figura 16 Pene Equino. En la figura se representa el pene equino con sus partes, tuberosidad isquiática, raíz, arteria profunda, arteria obturadora, ligamento suspensor, músculo retractor del pene, arteria craneal del pene, cuerpo cavernoso del pene, dorsal del glande, cuello del glande, corona del glande, glande.')
 
 
         .row(titulo="3")
           .titulo-sexto.color-acento-contenido.offset-1
-            h5 Figura 16.
+            h5 Figura 17.
             span  #[i  Pene porcino ]
         
           .col-md-12
             figure
-              img(src='@/assets/curso/temas/tema1/img27.png', alt='Figura 16 Pene Equino. En la figura se representa el pene porcino con sus partes.')
+              img(src='@/assets/curso/temas/tema1/img27.png', alt='Figura 17 Pene Equino. En la figura se representa el pene equino con sus partes, tuberosidad isquiática, raíz, arteria profunda, arteria obturadora, ligamento suspensor, músculo retractor del pene, arteria craneal del pene, cuerpo cavernoso del pene, dorsal del glande, cuello del glande, corona del glande, glande.')
         
         .row(titulo="4")
           .titulo-sexto.color-acento-contenido.offset-1
-            h5 Figura 17.
+            h5 Figura 18.
             span  #[i  Pene de los caprinos ]
         
           .col-md-12
             figure
-              img(src='@/assets/curso/temas/tema1/img28.png', alt='Figura 17 Pene Equino. En la figura se representa el pene de los caprinos con sus partes.')
+              img(src='@/assets/curso/temas/tema1/img28.png', alt='Figura 18 Pene caprinos. En la figura se representa el pene caprinos con sus partes, prepucio interno, parte libre del pene, rache, glande del pene, orificio uretral, procesus uretralis.')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-12
@@ -558,7 +566,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .titulo-sexto.color-acento-contenido.offset-1
-        h5 Figura 18.
+        h5 Figura 19.
         span  #[i  Cambios comportamentales y físicos del celo ]
       
       .col-md-12

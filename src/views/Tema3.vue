@@ -230,10 +230,10 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-10
         .titulo-sexto.color-acento-contenido.offset-1
-          h5 Figura 19.
+          h5 Figura 20.
           span  #[i  Ciclo estral]
         figure
-          img(src="@/assets/curso/temas/tema3/img3.svg", alt="En la figura se observan las fases del cliclo estral")
+          img(src="@/assets/curso/temas/tema3/img3.svg", alt="Figura 20 Ciclo estral. En la figura se representan las fases del ciclo estral, Fase Folicular con Folículos produciendo estradiol, Proestro, Estro. Fase Lútea con Diéstro, Metaestro, Cuerpo Lúteo en desarrollo, Cuerpo Lúteo produciendo progesterona, Cuerpo en Regresión.")
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -286,11 +286,10 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-10
         .titulo-sexto.color-acento-contenido.offset-1
-          h5 Figura 20.
+          h5 Figura 21.
           span  #[i Ventajas y desventajas de monta natural]
         figure
-          img(src="@/assets/curso/temas/tema3/img4.svg", alt="Figura 20 Ventajas y desventajas de monta natural. En la figura se observan las ventajas y desventajas de monta natural")
-
+          img(src="@/assets/curso/temas/tema3/img4.svg", alt="Figura 21 Ventajas y desventajas de monta natural. En la figura se listan las ventajas: No requiere una capacidad técnica del propietario y/o administrador. Costos de inversión bajos. Sostenimiento del macho mínimo. Desventajas: Desperdicio genético por parte del machoegistros nulos. Disminución en la fertilidad del macho. Nulo control sanitario. Una monta de hembras no aptas. Desconocimiento de preñez.")
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-12
         p #[strong Monta natural selectiva:] esta monta es donde el reproductor se encuentra estabulado, enjaulado bajo condiciones controladas de nutrición, limpieza y bajo cuidados especiales para que el reproductor exprese sus capacidades genéticas; las hembras son llevadas al lugar donde se realiza la monta, debidamente identificadas, logrando así controlar que el reproductor verdaderamente monte las hembras que se encuentran en celo, asegurando así un mejor manejo animal y productivo.
@@ -299,10 +298,10 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-10
         .titulo-sexto.color-acento-contenido.offset-1
-          h5 Figura 21.
+          h5 Figura 22.
           span  #[i Ventajas y desventajas monta natural selectiva]
         figure
-          img(src="@/assets/curso/temas/tema3/img5.svg", alt="Figura 21 Ventajas y desventajas monta natural selectiva. En la figura se observan las ventajas y desventajas de monta natural selectiva")
+          img(src="@/assets/curso/temas/tema3/img5.svg", alt="Figura 22 Ventajas y desventajas monta natural selectiva.En la figura se listan las ventajas: Menos desperdicio genético. Facilidad para registros. Asegurar preñez. Selección de hembras aptas y en condiciones físicas adecuadas. Control sanitario. Limpieza y aseo. Desventajas: Instalaciones especiales.  Requiere una capacidad técnica mayor de manejo animal por el propietario y/o administrador. Una mejor línea genética (reproductores). Costo de mantenimiento del reproductor.")
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-12
