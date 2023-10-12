@@ -414,7 +414,7 @@
             span  #[i  Anatomía de los órganos reproductivos del macho diferentes especies]
           .row 
             figure
-            img(src='@/assets/curso/temas/tema1/img19_1.png', alt='Figura 10 Anatomía de los órganos reproductivos del macho diferentes especies. En la figura se representa la anatomía de los órganos reproductivos del macho diferentes especies, incluyendo gato, perro, carnero, verraco, toro, garañón, igualmente la arteria testicular, conducto deferente, testículos, sínfisis pélvica, glándulas bulbouretrales, próstata, vesículas seminales.')
+            img(src='@/assets/curso/temas/tema1/img19_3.png', alt='Figura 10 Anatomía de los órganos reproductivos del macho diferentes especies. En la figura se representa la anatomía de los órganos reproductivos del macho diferentes especies, incluyendo gato, perro, carnero, verraco, toro, garañón, igualmente la arteria testicular, conducto deferente, testículos, sínfisis pélvica, glándulas bulbouretrales, próstata, vesículas seminales.')
         .row
           .col-md-6.mb-4.mb-md-0
           .titulo-sexto.color-acento-contenido.offset-1
@@ -422,7 +422,7 @@
             span  #[i  Anatomía del aparato reproductor del macho bovino]
           .row 
             figure
-            img(src='@/assets/curso/temas/tema1/img20.png', alt='Figura 11 Anatomía del aparato reproductor del macho bovino. En la figura se representa la posición anatomía del aparato reproductor del macho bovino, incluyendo vesículas seminales, ámpula, vejiga, uretra, conducto deferente, pene, testículos, escroto, epidídimo, próstata, recto, glándulas de Cowper, músculo retractor.')
+            img(src='@/assets/curso/temas/tema1/img20_1.png', alt='Figura 11 Anatomía del aparato reproductor del macho bovino. En la figura se representa la posición anatomía del aparato reproductor del macho bovino, incluyendo vesículas seminales, ámpula, vejiga, uretra, conducto deferente, pene, testículos, escroto, epidídimo, próstata, recto, glándulas de Cowper, músculo retractor.')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -431,7 +431,7 @@
             span  #[i  Posición anatómica de los órganos reproductivos machos]
           .row 
             figure
-            img(src='@/assets/curso/temas/tema1/img21.png', alt='Figura 12 Posición anatómica de los órganos reproductivos machos. En la figura se representa la posición anatómica de los órganos reproductivos de los machos, incluyendo saco prepucial, vejiga, vasos sanguíneos espermáticos, uréter, vesículas seminales, glándula prostática, glándula bulbouretral, uretra, conducto deferente, epidídimo, escroto, testículo.')
+            img(src='@/assets/curso/temas/tema1/img21_1.png', alt='Figura 12 Posición anatómica de los órganos reproductivos machos. En la figura se representa la posición anatómica de los órganos reproductivos de los machos, incluyendo saco prepucial, vejiga, vasos sanguíneos espermáticos, uréter, vesículas seminales, glándula prostática, glándula bulbouretral, uretra, conducto deferente, epidídimo, escroto, testículo.')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -440,7 +440,7 @@
             span  #[i  Aparato reproductor masculino la uretra ]
           .row 
             figure
-            img(src='@/assets/curso/temas/tema1/img22.png', alt='Figura 13 Aparato reproductor masculino la uretra. En la figura se representa el aparato reproductor masculino incluyendo vesícula seminal ámpula, conducto deferente, testículo epidídimo, glándula bulbo-uretral, próstata, pene, músculo retractor, ese del pene.')
+            img(src='@/assets/curso/temas/tema1/fig13.png', alt='Figura 13 Aparato reproductor masculino la uretra. En la figura se representa el aparato reproductor masculino incluyendo vesícula seminal ámpula, conducto deferente, testículo epidídimo, glándula bulbo-uretral, próstata, pene, músculo retractor, ese del pene.')
         .row
           .col-md-6.mb-4.mb-md-0
           .titulo-sexto.color-acento-contenido.offset-1
@@ -448,7 +448,7 @@
             span  #[i  Aparato reproductor machos caprinos ]
           .row 
             figure
-            img(src='@/assets/curso/temas/tema1/img22.png', alt='Figura 14 Aparato reproductor machos caprinos. En la figura se representa el aparato reproductor machos caprinos, próstata, glándula vesicular, ampolla del conducto deferente, vejiga, conducto deferente, glande del pene, prepucio, plexo pampini forme, apéndice filiforme, cabeza del epidídimo, cola del epidídimo, escroto, cuerpo del epidídimo, testículo, pene, flexura sigmoidea, músculo retractor del pene, glándula bulbo-uretral, recto.')
+            img(src='@/assets/curso/temas/tema1/img22_1.png', alt='Figura 14 Aparato reproductor machos caprinos. En la figura se representa el aparato reproductor machos caprinos, próstata, glándula vesicular, ampolla del conducto deferente, vejiga, conducto deferente, glande del pene, prepucio, plexo pampini forme, apéndice filiforme, cabeza del epidídimo, cola del epidídimo, escroto, cuerpo del epidídimo, testículo, pene, flexura sigmoidea, músculo retractor del pene, glándula bulbo-uretral, recto.')
 
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
       p.mt-3.p-2 Pene
@@ -499,7 +499,7 @@
 
           .col-md-12            
             figure
-              img(src='@/assets/curso/temas/tema1/img25.png', alt='Figura 14 Aparato reproductor machos caprinos. En la figura se representa el aparato reproductor machos caprinos, próstata, glándula vesicular, ampolla del conducto deferente, vejiga, conducto deferente, glande del pene, prepucio, plexo pampini forme, apéndice filiforme, cabeza del epidídimo, cola del epidídimo, escroto, cuerpo del epidídimo, testículo, pene, flexura sigmoidea, músculo retractor del pene, glándula bulbo-uretral, recto.')
+              img(src='@/assets/curso/temas/tema1/img25_1.png', alt='Figura 14 Aparato reproductor machos caprinos. En la figura se representa el aparato reproductor machos caprinos, próstata, glándula vesicular, ampolla del conducto deferente, vejiga, conducto deferente, glande del pene, prepucio, plexo pampini forme, apéndice filiforme, cabeza del epidídimo, cola del epidídimo, escroto, cuerpo del epidídimo, testículo, pene, flexura sigmoidea, músculo retractor del pene, glándula bulbo-uretral, recto.')
               figcaption Nota: Adaptado de Sisson y Grossman, (1973)
 
 
@@ -510,7 +510,7 @@
         
           .col-md-12
             figure
-              img(src='@/assets/curso/temas/tema1/img26_1.png', alt='Figura 16 Pene Equino. En la figura se representa el pene equino con sus partes, tuberosidad isquiática, raíz, arteria profunda, arteria obturadora, ligamento suspensor, músculo retractor del pene, arteria craneal del pene, cuerpo cavernoso del pene, dorsal del glande, cuello del glande, corona del glande, glande.')
+              img(src='@/assets/curso/temas/tema1/img26_3.png', alt='Figura 16 Pene Equino. En la figura se representa el pene equino con sus partes, tuberosidad isquiática, raíz, arteria profunda, arteria obturadora, ligamento suspensor, músculo retractor del pene, arteria craneal del pene, cuerpo cavernoso del pene, dorsal del glande, cuello del glande, corona del glande, glande.')
 
 
         .row(titulo="3")
@@ -520,7 +520,7 @@
         
           .col-md-12
             figure
-              img(src='@/assets/curso/temas/tema1/img27.png', alt='Figura 17 Pene Equino. En la figura se representa el pene equino con sus partes, tuberosidad isquiática, raíz, arteria profunda, arteria obturadora, ligamento suspensor, músculo retractor del pene, arteria craneal del pene, cuerpo cavernoso del pene, dorsal del glande, cuello del glande, corona del glande, glande.')
+              img(src='@/assets/curso/temas/tema1/img27_1.png', alt='Figura 17 Pene Equino. En la figura se representa el pene equino con sus partes, tuberosidad isquiática, raíz, arteria profunda, arteria obturadora, ligamento suspensor, músculo retractor del pene, arteria craneal del pene, cuerpo cavernoso del pene, dorsal del glande, cuello del glande, corona del glande, glande.')
         
         .row(titulo="4")
           .titulo-sexto.color-acento-contenido.offset-1
@@ -529,7 +529,7 @@
         
           .col-md-12
             figure
-              img(src='@/assets/curso/temas/tema1/img28.png', alt='Figura 18 Pene caprinos. En la figura se representa el pene caprinos con sus partes, prepucio interno, parte libre del pene, rache, glande del pene, orificio uretral, procesus uretralis.')
+              img(src='@/assets/curso/temas/tema1/img28_1.png', alt='Figura 18 Pene caprinos. En la figura se representa el pene caprinos con sus partes, prepucio interno, parte libre del pene, rache, glande del pene, orificio uretral, procesus uretralis.')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-12
