@@ -133,7 +133,7 @@ export default {
         nombreRuta: 'tema4',
         numero: '4',
         titulo:
-          'Procedimientos estandarizados y de seguridad en el trabajo en la explotación destinada a la reproducción animal',
+          'Procedimientos estandarizados y de seguridad en el trabajo, en la explotación destinada a la reproducción animal',
         desarrolloContenidos: true,
         subMenu: [
           {

@@ -5,7 +5,7 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 4
-        h1 Procedimientos estandarizados y de seguridad en el trabajo en la explotación destinada a la reproducción animal
+        h1 Procedimientos estandarizados y de seguridad en el trabajo, en la explotación destinada a la reproducción animal
       
       .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
         .col-lg-12
