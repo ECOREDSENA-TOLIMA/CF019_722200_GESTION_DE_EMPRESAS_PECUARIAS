@@ -324,7 +324,7 @@
       .tarjeta.colorprimario--borde.p-4(titulo="Escroto")
         h4
         p La observación escrotal va ligada a sus funciones de protección y termorregulación, teniendo esto en cuanta la evaluación debe realizarse completa y minuciosa, ya que si se llega a alterar puede causar consecuencias en la espermatogénesis, observar que no tengan laceraciones, abrasiones, que su grosor sea adecuado y que posea el pelaje normal.
-        p "La circunferencia escrotal ha demostrado ser una medida confiable para predecir el peso testicular y la producción de espermatozoides en los toros en crecimiento. La producción de espermatozoides es una función directa del tamaño testicular. Esta medida ha sido utilizada además para predecir la producción de espermatozoides, calidad seminal y la fertilidad en toros adultos (Osorio,2014).
+        p "La circunferencia escrotal ha demostrado ser una medida confiable para predecir el peso testicular y la producción de espermatozoides en los toros en crecimiento. La producción de espermatozoides es una función directa del tamaño testicular. Esta medida ha sido utilizada además para predecir la producción de espermatozoides, calidad seminal y la fertilidad en toros adultos" (Osorio,2014).
       .tarjeta.colorprimario--borde.p-4(titulo="Testículos, epidídimo y escroto")
         h4
         p En los testículos se observan y se palpa el tamaño, forma y eje de rotación, seguidamente se inspecciona la cola del epidídimo y como se encuentra este frente a simetría testicular todo bajo cierta suavidad en la palpación para así lograr un examen adecuado sin causar ningún tipo de lesión al animal.
@@ -410,7 +410,7 @@
           table
             thead
               tr
-                th Meses
+                th(width="95") Meses
                 th Ene
                 th Feb
                 th Mar

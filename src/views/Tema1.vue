@@ -104,7 +104,7 @@
                     | Agresividad.
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img3.png', alt='')
+              img(src='@/assets/curso/temas/tema1/img3.png', alt='Comportamiento: Disminución en la ingesta de alimento. Aumento en la frecuencia cardíaca. Aumento en la respiración (jadeo). Agresividad.')
 
         .row.justify-content-center.align-items-center.my-lg-4              
           .col-md-6.mb-4.mb-md-0
@@ -123,7 +123,7 @@
                     | Comprender etiología de la enfermedad.                 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img4.png', alt='')
+              img(src='@/assets/curso/temas/tema1/img4.png', alt='Morbilidad: Enfermedad. Cojera. Comprender etiología de la enfermedad.')
         
         .row.justify-content-center.align-items-center.my-lg-4              
           .col-md-6.mb-4.mb-md-0
@@ -142,7 +142,7 @@
                     | Distribución espacio temporal de muerte.
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img5.png', alt='')
+              img(src='@/assets/curso/temas/tema1/img5.png', alt='Mortalidad: Análisis causas de muerte. Frecuencia de muerte. Distribución espacio temporal de muerte.')
         
         .row.justify-content-center.align-items-center.my-lg-4              
           .col-md-6.mb-4.mb-md-0
@@ -158,7 +158,7 @@
                     | Pérdida de peso significativa.                    
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img6.png', alt='')
+              img(src='@/assets/curso/temas/tema1/img6.png', alt='Condición corporal: Baja condición corporal. Pérdida de peso significativa.')
 
         .row.justify-content-center.align-items-center.my-lg-4              
           .col-md-6.mb-4.mb-md-0
@@ -183,7 +183,7 @@
                     | Alta tasa de distocia.
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img7.png', alt='')
+              img(src='@/assets/curso/temas/tema1/img7.png', alt='Eficiencia reproductiva: Bajo rendimiento reproductivo. Anestros prolongación intervalos postpartos. Baja tasa de concepción. Alta tasa de abortos. Alta tasa de distocia.')
 
     Separador
     .row
@@ -382,7 +382,6 @@
                     td En forma de tirabuzón
                     td Pliegues longitudinales
                     td De 5 a 7 anillos muy prominentes
-              
 
           .row(numero="5" titulo="Vagina")
             .col-md-12.mb-4.mb-md-0(style="background-color: #DBF9BD")
@@ -394,7 +393,7 @@
               p Dentro de los órganos genitales la vulva es el más externo, siendo la parte más visible y generalmente confundido con la vagina, la vulva cuenta con unos labios vulvares mayores, unos menores y como homologo femenino del pene encontramos al clítoris en la zona ventral.
       .col-3
         figure
-          img(src='@/assets/curso/temas/tema1/img18.png', alt='')
+          img(src='@/assets/curso/temas/tema1/img18.png', alt='Estructuras que componen el aparato reproductor de la hembra')
     
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
       p.mt-3.p-2 Anatomía del aparato reproductor del macho
@@ -499,7 +498,7 @@
 
           .col-md-12            
             figure
-              img(src='@/assets/curso/temas/tema1/img25_1.png', alt='Figura 14 Aparato reproductor machos caprinos. En la figura se representa el aparato reproductor machos caprinos, próstata, glándula vesicular, ampolla del conducto deferente, vejiga, conducto deferente, glande del pene, prepucio, plexo pampini forme, apéndice filiforme, cabeza del epidídimo, cola del epidídimo, escroto, cuerpo del epidídimo, testículo, pene, flexura sigmoidea, músculo retractor del pene, glándula bulbo-uretral, recto.')
+              img(src='@/assets/curso/temas/tema1/img25_1.png', alt='Figura 15 Aparato reproductor machos caprinos. En la figura se representa el aparato reproductor machos caprinos, próstata, glándula vesicular, ampolla del conducto deferente, vejiga, conducto deferente, glande del pene, prepucio, plexo pampini forme, apéndice filiforme, cabeza del epidídimo, cola del epidídimo, escroto, cuerpo del epidídimo, testículo, pene, flexura sigmoidea, músculo retractor del pene, glándula bulbo-uretral, recto.')
               figcaption Nota: Adaptado de Sisson y Grossman, (1973)
 
 
@@ -571,7 +570,7 @@
       
       .col-md-12
         figure
-          img(src='@/assets/curso/temas/tema1/img30.png', alt='Figura 18 Cambios comportamentales y físicos del celo. En la figura se observan los cambios comportamentales y físicos del celo.')
+          img(src='@/assets/curso/temas/tema1/img30.png', alt='Figura 19 Cambios comportamentales y físicos del celo. En la figura se observan los cambios comportamentales y físicos del celo.')
     
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-12
@@ -638,7 +637,7 @@
 
       .col-xl-3
         figure
-          img(src='@/assets/curso/temas/tema1/img32.png', alt='')
+          img(src='@/assets/curso/temas/tema1/img32.png', alt='Mecanismos y herramientas para la detección del celo')
       
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-xl-12
@@ -703,7 +702,7 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img33.png', alt='')
+              img(src='@/assets/curso/temas/tema1/img33.png', alt='Animales marcadores:Los animales marcadores son y serán usados, ya que nada mejor que el macho para saber cuándo montar a la hembra, además de esto, realizar un proceso de estímulo hacia la hembra hará que entre mucho más rápido a la madurez cuando hay un macho cerca. Teniendo en cuanta estos animales marcadores o probadores existen varias formas de utilizarlos, ya sea utilizando dispositivos electrónicos de detección de monta o marcadores.')
 
         .row.justify-content-center.align-items-center.my-lg-4              
           .col-md-6.mb-4.mb-md-0
@@ -715,7 +714,7 @@
                                
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img34.png', alt='')
+              img(src='@/assets/curso/temas/tema1/img34.png', alt='Dispositivos electrónicos:Dentro de los dispositivos electrónicos encontramos uno muy característico, con un funcionamiento simple, pero útil en el momento de detección de celos, los podómetros, en ganado bovino, son utilizados para medir la cantidad de pasos realizados por un animal, debido a que durante el estro o celo, las vacas aumentan su actividad y tienden a caminar más, este podómetro envía los datos a un computador o celular alertando el aumento de pasos frente a días anteriores, dando así un indicio de posible celo.')
         
         .row.justify-content-center.align-items-center.my-lg-4              
           .col-md-6.mb-4.mb-md-0
@@ -725,7 +724,7 @@
               p Existen diferentes tipos de dispositivos para la detección de la monta que generalmente trabajan bajo el sistema de marcar el animal montado debido a la aceptación de la monta, ya sea con cápsulas que cambian de color, aplicación de pintura en la base de la cola o el sacro, y los sistemas electrónicos los cuales se inserta como un microchip en la base de la cola, los toros probadores o toros desviados tendrán un lector del microchip en un cinturón, al momento de realizar la monta este enviara un aviso del número del microchip al computador o celular del encargado de la producción para así identificar a la hembra montada.                
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img35.png', alt='')        
+              img(src='@/assets/curso/temas/tema1/img35.png', alt='Dispositivos de detección de monta:Existen diferentes tipos de dispositivos para la detección de la monta que generalmente trabajan bajo el sistema de marcar el animal montado debido a la aceptación de la monta, ya sea con cápsulas que cambian de color, aplicación de pintura en la base de la cola o el sacro, y los sistemas electrónicos los cuales se inserta como un microchip en la base de la cola, los toros probadores o toros desviados tendrán un lector del microchip en un cinturón, al momento de realizar la monta este enviara un aviso del número del microchip al computador o celular del encargado de la producción para así identificar a la hembra montada.')        
         
 </template>
 
