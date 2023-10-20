@@ -342,7 +342,7 @@
         p Bajo estas condiciones y estándares, se selecciona un buen reproductor, el cual será aprovechado en su potencial genético hasta que este decaiga.
       .col-lg-4
         figure
-          img(src="@/assets/curso/temas/tema3/img6.png", alt="Imagen de una vaca en el campo")
+          img(src="@/assets/curso/temas/tema3/img6.png", alt="Imagen decorativa: Imagen de una vaca en el campo")
 
     Separador
     .row
@@ -364,7 +364,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-4
         figure
-          img(src="@/assets/curso/temas/tema3/img7.png", alt="Imagen de una varias vacas en el campo")
+          img(src="@/assets/curso/temas/tema3/img7.png", alt="Imagen decorativa")
       .col-lg-8
         .titulo-sexto.color-acento-contenido.offset-1
           h5 Tabla 6.

@@ -98,7 +98,7 @@
               p Almacenamiento de sogas, cabezales, narigueras, bozales, trancas y demás herramientas usadas para esta práctica, procurar que no salgan a áreas diferentes para evitar contaminación.
       .col-3
         figure
-          img(src='@/assets/curso/temas/tema2/img2.png', alt='Imagen Alojamiento del semental')    
+          img(src='@/assets/curso/temas/tema2/img2.png', alt='Imagen decorativa')    
 
     Separador
     .row
@@ -118,7 +118,7 @@
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-3
         figure
-          img(src='@/assets/curso/temas/tema2/img3.svg', alt='Dentro de la sujeción, existen técnicas de sujeción manual y con ayuda de herramientas.')
+          img(src='@/assets/curso/temas/tema2/img3.svg', alt='Imagen decorativa')
       .col-7
         p Dentro de la sujeción, existen técnicas de sujeción manual y con ayuda de herramientas. Dentro de las manuales, una muy utilizada en ganadería es el uso de sujeción por la cola, muy común en ganadería bovina, en la cual se toma la cola del bovino, ya sea estando en botalón o apretadero, y se ejerce fuerza contraria hacia la parte de la cabeza del animal, con precaución de no ocasionar fractura de la cola. En algunos casos, cuando los animales son dóciles, simplemente, con la ayuda de los corrales o estructuras aledañas en forma de pasillo, se puede realizar la conducción con un simple arreo.
 
