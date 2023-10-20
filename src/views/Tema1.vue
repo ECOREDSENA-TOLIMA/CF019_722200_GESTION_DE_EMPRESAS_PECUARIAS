@@ -498,7 +498,7 @@
 
           .col-md-12            
             figure
-              img(src='@/assets/curso/temas/tema1/img25_1.png', alt='Figura 15 Aparato reproductor machos caprinos. En la figura se representa el aparato reproductor machos caprinos, próstata, glándula vesicular, ampolla del conducto deferente, vejiga, conducto deferente, glande del pene, prepucio, plexo pampini forme, apéndice filiforme, cabeza del epidídimo, cola del epidídimo, escroto, cuerpo del epidídimo, testículo, pene, flexura sigmoidea, músculo retractor del pene, glándula bulbo-uretral, recto.')
+              img(src='@/assets/curso/temas/tema1/img25_1.png', alt='Figura 15 Pene bovino. Tipo de pene fibroelástico donde se observa la flexura sigmoidea. Se representa el pene con sus partes, músculo isquiocavernoso, músculo bulbocavernoso, músculo retractor del pene, flexura sigmoidea, orificio uretral externo, glande')
               figcaption Nota: Adaptado de Sisson y Grossman, (1973)
 
 
@@ -519,7 +519,7 @@
         
           .col-md-12
             figure
-              img(src='@/assets/curso/temas/tema1/img27_1.png', alt='Figura 17 Pene Equino. En la figura se representa el pene equino con sus partes, tuberosidad isquiática, raíz, arteria profunda, arteria obturadora, ligamento suspensor, músculo retractor del pene, arteria craneal del pene, cuerpo cavernoso del pene, dorsal del glande, cuello del glande, corona del glande, glande.')
+              img(src='@/assets/curso/temas/tema1/img27_1.png', alt='Figura 17 Pene porcino. En la figura se representa el pene porcino con sus partes, glande, cordón tendinoso, hendidura como sistema externo uretra, pequeñas venas, cordón tendinoso')
         
         .row(titulo="4")
           .titulo-sexto.color-acento-contenido.offset-1
