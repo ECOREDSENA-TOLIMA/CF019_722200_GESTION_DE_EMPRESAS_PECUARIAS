@@ -155,7 +155,7 @@ export default {
           {
             numero: '4.4',
             titulo:
-              'Normas de salud y seguridad en el trabajo y medio ambiente en explotaciones pecuarias dedicadas a la reproducción animal',
+              'Normas de salud y seguridad en el trabajo y medio ambiente, en explotaciones pecuarias dedicadas a la reproducción animal',
             hash: 't_4_4',
           },
         ],
