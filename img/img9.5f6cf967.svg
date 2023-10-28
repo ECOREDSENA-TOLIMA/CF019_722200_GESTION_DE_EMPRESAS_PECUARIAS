@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="136" viewBox="0 0 820 136">
+  <g id="Grupo_1071503" data-name="Grupo 1071503" transform="translate(-426 -12485)">
+    <rect id="Rectángulo_376354" data-name="Rectángulo 376354" width="820" height="136" rx="33" transform="translate(426 12485)" fill="#dbf9bd"/>
+    <g id="Grupo_1071500" data-name="Grupo 1071500" transform="translate(492 12515)">
+      <text id="EPS:_:Suma_de_las_edades_del_primer_servicio_fecha_del_servicio_fecha_de_nacimiento_" data-name="EPS: :Suma de las edades del primer servicio (fecha del servicio – fecha de nacimiento)
+
+" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">EPS:</tspan><tspan y="15" xml:space="preserve" font-family="Roboto-Regular, Roboto" font-weight="400"> :Suma de las edades del primer servicio (fecha del servicio – fecha de nacimiento)</tspan></text>
+      <text id="Número_total_de_hembras_servidas" data-name="Número total de hembras servidas" transform="translate(141.5 52)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="80.152" y="15">Número total de hembras servidas</tspan></text>
+      <line id="Línea_951" data-name="Línea 951" x2="688" transform="translate(0.5 39.5)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

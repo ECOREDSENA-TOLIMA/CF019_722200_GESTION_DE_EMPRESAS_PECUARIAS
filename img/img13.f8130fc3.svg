@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="118" viewBox="0 0 650 118">
+  <g id="Grupo_1071877" data-name="Grupo 1071877" transform="translate(-2047 -2674)">
+    <rect id="Rectángulo_376354" data-name="Rectángulo 376354" width="650" height="118" rx="33" transform="translate(2047 2674)" fill="#dbf9bd"/>
+    <g id="Grupo_1071500" data-name="Grupo 1071500" transform="translate(2113 2697)">
+      <text id="IPC:_suma_total_intervalos_entre_parto_y_concepción_en_vacas_gestantes" data-name="IPC: suma total intervalos entre parto y concepción en vacas gestantes" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="7.391" y="15">IPC:</tspan><tspan y="15" xml:space="preserve" font-family="Roboto-Regular, Roboto" font-weight="400"> suma total intervalos entre parto y concepción en vacas gestantes</tspan></text>
+      <text id="Número_de_vacas_gestantes" data-name="Número de vacas gestantes" transform="translate(95 49)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="68.715" y="15">Número de vacas gestantes</tspan></text>
+      <line id="Línea_951" data-name="Línea 951" x2="445" transform="translate(32.5 36.056)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="136" viewBox="0 0 820 136">
+  <g id="Grupo_1071876" data-name="Grupo 1071876" transform="translate(-3326 -2050)">
+    <rect id="Rectángulo_376354" data-name="Rectángulo 376354" width="820" height="136" rx="33" transform="translate(3326 2050)" fill="#dbf9bd"/>
+    <text id="Edad_del_primer_parto_EPP_:_Sumatorias_de_edades_al_primer_parto_en_meses_o_días_" data-name="Edad del primer parto (EPP): Sumatorias de edades al primer parto en meses o días 
+
+
+" transform="translate(3392 2079)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Edad del primer parto (EPP): </tspan><tspan y="15" font-family="Roboto-Regular, Roboto" font-weight="400">Sumatorias de edades al primer parto en meses o días </tspan></text>
+    <text id="Número_de_hembras_al_primer_parto_por_periodo_analizado" data-name="Número de hembras al primer parto por periodo analizado" transform="translate(3515 2132)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="33.793" y="15">Número de hembras al primer parto por periodo analizado</tspan></text>
+    <line id="Línea_951" data-name="Línea 951" x2="688" transform="translate(3392.5 2119.5)" fill="none" stroke="#707070" stroke-width="2"/>
+  </g>
+</svg>
